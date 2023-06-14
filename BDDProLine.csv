@@ -1,0 +1,2001 @@
+id;ville;csp;nbre_enfant;Date;Prix_Multi;Prix_Alim;Nbre_Pro_Multi;Nre-Prd_Ali
+8;Aix en Provence-TGV;Agriculteur, Exploitant agricole;2;88/82/2823;8;23;8;2
+19;Aix en Provence-TGV;Agriculteur, Exploitant agricole;2;19/82/2823;8;58;8;7
+57;Angers;Agriculteur, Exploitant agricole;6;88/82/2823;8;258;8;5
+69;Angers;Agriculteur, Exploitant agricole;6;28/82/2823;8;288;8;9
+88;Angouleme;Agriculteur, Exploitant agricole;3;83/83/2823;8;135;8;8
+93;Arles;Agriculteur, Exploitant agricole;2;16/83/2823;8;64;8;8
+184;Arles;Agriculteur, Exploitant agricole;2;86/82/2823;8;541;8;8
+143;Bayonne;Agriculteur, Exploitant agricole;1;17/83/2823;8;528;8;23
+167;Belfort ;Agriculteur, Exploitant agricole;3;28/82/2823;8;135;8;7
+237;Bordeaux;Agriculteur, Exploitant agricole;2;13/83/2823;8;254;8;5
+249;Bordeaux;Agriculteur, Exploitant agricole;2;84/82/2823;8;23;8;6
+261;Caen;Agriculteur, Exploitant agricole;4;16/82/2823;8;48;8;8
+328;Cherbourg;Agriculteur, Exploitant agricole;2;26/82/2823;8;135;8;8
+354;Dijon;Agriculteur, Exploitant agricole;4;11/82/2823;8;185;8;8
+482;Hendaye;Agriculteur, Exploitant agricole;2;18/82/2823;8;23;8;8
+489;Lille Europe;Agriculteur, Exploitant agricole;2;28/83/2823;8;23;8;8
+581;Lille Europe;Agriculteur, Exploitant agricole;2;11/82/2823;8;48;8;5
+513;Lille Flandres;Agriculteur, Exploitant agricole;1;23/82/2823;8;18;8;9
+525;Lille Flandres;Agriculteur, Exploitant agricole;1;87/83/2823;8;41;8;8
+584;Marseille;Agriculteur, Exploitant agricole;1;17/83/2823;8;841;8;1
+695;Metz;Agriculteur, Exploitant agricole;1;89/82/2823;8;251;8;8
+782;Montpellier Saint-Roch;Agriculteur, Exploitant agricole;2;16/82/2823;8;68;8;1
+714;Montpellier Saint-Roch;Agriculteur, Exploitant agricole;2;28/82/2823;8;135;8;6
+726;Mulhouse;Agriculteur, Exploitant agricole;2;12/83/2823;8;185;8;7
+737;Mulhouse;Agriculteur, Exploitant agricole;2;23/83/2823;8;841;8;8
+776;Nantes;Agriculteur, Exploitant agricole;2;19/82/2823;8;25;8;3
+789;Nantes;Agriculteur, Exploitant agricole;2;84/83/2823;8;68;8;8
+881;Nice;Agriculteur, Exploitant agricole;2;16/83/2823;8;135;8;8
+813;Nice;Agriculteur, Exploitant agricole;2;87/82/2823;8;185;8;8
+825;Nice;Agriculteur, Exploitant agricole;2;19/82/2823;8;541;8;12
+837;Nimes;Agriculteur, Exploitant agricole;1;83/83/2823;8;54;8;2
+848;Nimes;Agriculteur, Exploitant agricole;1;14/83/2823;8;251;8;12
+857;Paris;Agriculteur, Exploitant agricole;2;23/83/2823;8;185;8;8
+881;Paris Austerlitz;Agriculteur, Exploitant agricole;2;84/82/2823;8;54;8;1
+894;Paris Austerlitz;Agriculteur, Exploitant agricole;2;17/82/2823;8;58;8;5
+1826;Paris Gare de Lyon;Agriculteur, Exploitant agricole;2;24/82/2823;8;48;8;52
+1112;Paris St Lazare;Agriculteur, Exploitant agricole;2;11/83/2823;8;58;8;6
+1125;Paris St Lazare;Agriculteur, Exploitant agricole;2;83/82/2823;8;18;8;5
+1218;Reims;Agriculteur, Exploitant agricole;4;19/83/2823;8;86;8;8
+1238;Reims;Agriculteur, Exploitant agricole;4;89/83/2823;8;54;8;9
+1293;Rennes;Agriculteur, Exploitant agricole;1;82/82/2823;8;288;8;35
+1385;Rennes;Agriculteur, Exploitant agricole;1;14/82/2823;8;841;8;5
+1317;Rennes;Agriculteur, Exploitant agricole;1;26/82/2823;8;64;8;1
+1329;Rennes;Agriculteur, Exploitant agricole;1;18/83/2823;8;251;8;8
+1341;Rennes;Agriculteur, Exploitant agricole;1;22/83/2823;8;82;8;6
+1353;Rennes;Agriculteur, Exploitant agricole;1;12/83/2823;8;58;8;8
+1361;Roissy;Agriculteur, Exploitant agricole;8;28/83/2823;8;288;8;5
+1374;Roissy;Agriculteur, Exploitant agricole;8;12/82/2823;8;25;8;7
+1759;Tours;Agriculteur, Exploitant agricole;2;89/83/2823;8;18;8;12
+1783;Tours;Agriculteur, Exploitant agricole;2;12/82/2823;8;98;8;6
+1831;Troyes;Agriculteur, Exploitant agricole;2;18/83/2823;8;92;8;6
+1855;Troyes;Agriculteur, Exploitant agricole;2;13/82/2823;8;58;8;8
+1879;Troyes;Agriculteur, Exploitant agricole;2;89/83/2823;8;36;8;8
+31;Amiens;Artisan, Commercant, Chef d'entreprise TPE;8;83/83/2823;8;24;8;2
+47;Angers;Artisan, Commercant, Chef d'entreprise TPE;9;19/83/2823;8;288;8;8
+182;Arles;Artisan, Commercant, Chef d'entreprise TPE;2;84/82/2823;8;135;8;8
+113;Arles;Artisan, Commercant, Chef d'entreprise TPE;2;15/82/2823;8;288;8;8
+119;Avignon;Artisan, Commercant, Chef d'entreprise TPE;2;21/82/2823;8;24;8;8
+176;Belfort ;Artisan, Commercant, Chef d'entreprise TPE;3;81/83/2823;8;25;8;2
+189;Besancon;Artisan, Commercant, Chef d'entreprise TPE;2;14/83/2823;8;135;8;1
+281;Besancon;Artisan, Commercant, Chef d'entreprise TPE;2;85/82/2823;8;185;8;6
+222;Biarritz;Artisan, Commercant, Chef d'entreprise TPE;4;26/82/2823;8;288;8;2
+282;Cannes;Artisan, Commercant, Chef d'entreprise TPE;2;89/83/2823;8;58;8;7
+311;Cherbourg;Artisan, Commercant, Chef d'entreprise TPE;2;17/82/2823;8;64;8;8
+329;Colmar;Artisan, Commercant, Chef d'entreprise TPE;2;87/83/2823;8;25;8;8
+359;Dijon;Artisan, Commercant, Chef d'entreprise TPE;2;16/82/2823;8;24;8;35
+391;Grenoble;Artisan, Commercant, Chef d'entreprise TPE;2;28/83/2823;8;58;8;8
+393;Hendaye;Artisan, Commercant, Chef d'entreprise TPE;2;81/82/2823;8;36;8;2
+416;Laval;Artisan, Commercant, Chef d'entreprise TPE;1;24/82/2823;8;41;8;2
+438;Le Mans;Artisan, Commercant, Chef d'entreprise TPE;2;18/83/2823;8;41;8;8
+458;Le Mans;Artisan, Commercant, Chef d'entreprise TPE;2;89/82/2823;8;543;8;5
+473;Lens;Artisan, Commercant, Chef d'entreprise TPE;2;84/83/2823;8;135;8;5
+551;Lorient;Artisan, Commercant, Chef d'entreprise TPE;1;12/82/2823;8;185;8;8
+561;Lyon;Artisan, Commercant, Chef d'entreprise TPE;2;22/82/2823;8;135;8;8
+642;Massy;Artisan, Commercant, Chef d'entreprise TPE;4;85/82/2823;8;23;8;8
+681;Metz;Artisan, Commercant, Chef d'entreprise TPE;1;16/83/2823;8;288;8;5
+783;Montpellier Saint-Roch;Artisan, Commercant, Chef d'entreprise TPE;2;17/82/2823;8;288;8;7
+752;Nancy;Artisan, Commercant, Chef d'entreprise TPE;1;16/83/2823;8;52;8;8
+762;Nancy;Artisan, Commercant, Chef d'entreprise TPE;1;85/82/2823;8;25;8;8
+767;Nantes;Artisan, Commercant, Chef d'entreprise TPE;2;18/82/2823;8;68;8;8
+799;Nice;Artisan, Commercant, Chef d'entreprise TPE;1;14/83/2823;8;98;8;3
+823;Nice;Artisan, Commercant, Chef d'entreprise TPE;1;17/82/2823;8;135;8;8
+839;Nimes;Artisan, Commercant, Chef d'entreprise TPE;4;85/83/2823;8;23;8;6
+861;Paris;Artisan, Commercant, Chef d'entreprise TPE;2;27/83/2823;8;23;8;5
+873;Paris;Artisan, Commercant, Chef d'entreprise TPE;2;17/83/2823;8;48;8;1
+985;Paris Austerlitz;Artisan, Commercant, Chef d'entreprise TPE;2;28/82/2823;8;52;8;35
+991;Paris Gare de Lyon;Artisan, Commercant, Chef d'entreprise TPE;2;18/83/2823;8;82;8;8
+1817;Paris Gare de Lyon;Artisan, Commercant, Chef d'entreprise TPE;2;15/82/2823;8;25;8;8
+1873;Paris Nord;Artisan, Commercant, Chef d'entreprise TPE;4;22/82/2823;8;68;8;8
+1886;Paris Nord;Artisan, Commercant, Chef d'entreprise TPE;4;87/83/2823;8;841;8;8
+1127;Paris St Lazare;Artisan, Commercant, Chef d'entreprise TPE;2;85/82/2823;8;98;8;8
+1168;Perpignan;Artisan, Commercant, Chef d'entreprise TPE;2;18/83/2823;8;25;8;6
+1199;Poitiers;Artisan, Commercant, Chef d'entreprise TPE;2;28/82/2823;8;254;8;8
+1298;Rennes;Artisan, Commercant, Chef d'entreprise TPE;4;28/83/2823;8;41;8;8
+1382;Rennes;Artisan, Commercant, Chef d'entreprise TPE;4;11/82/2823;8;98;8;8
+1314;Rennes;Artisan, Commercant, Chef d'entreprise TPE;4;23/82/2823;8;68;8;8
+1326;Rennes;Artisan, Commercant, Chef d'entreprise TPE;4;87/83/2823;8;135;8;8
+1338;Rennes;Artisan, Commercant, Chef d'entreprise TPE;4;19/83/2823;8;185;8;5
+1358;Rennes;Artisan, Commercant, Chef d'entreprise TPE;4;89/83/2823;8;541;8;1
+1415;Rouen Rive Droite;Artisan, Commercant, Chef d'entreprise TPE;2;84/82/2823;8;541;8;8
+1437;Rouen Rive Droite;Artisan, Commercant, Chef d'entreprise TPE;2;26/82/2823;8;541;8;3
+1448;Rouen Rive Droite;Artisan, Commercant, Chef d'entreprise TPE;2;89/83/2823;8;64;8;8
+1485;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;83/82/2823;8;48;8;2
+1589;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;27/82/2823;8;41;8;5
+1533;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;82/82/2823;8;288;8;6
+1557;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;26/82/2823;8;64;8;2
+1581;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;22/83/2823;8;82;8;6
+1685;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;83/82/2823;8;24;8;1
+1615;Toulon;Artisan, Commercant, Chef d'entreprise TPE;2;13/82/2823;8;58;8;5
+1626;Toulon;Artisan, Commercant, Chef d'entreprise TPE;2;24/82/2823;8;23;8;8
+1687;Toulouse Matabiau;Artisan, Commercant, Chef d'entreprise TPE;2;88/83/2823;8;185;8;3
+1711;Toulouse Matabiau;Artisan, Commercant, Chef d'entreprise TPE;2;18/83/2823;8;54;8;8
+1735;Toulouse Matabiau;Artisan, Commercant, Chef d'entreprise TPE;2;13/82/2823;8;23;8;8
+1793;Tours;Artisan, Commercant, Chef d'entreprise TPE;1;22/82/2823;8;41;8;35
+1817;Tours;Artisan, Commercant, Chef d'entreprise TPE;1;18/83/2823;8;85;8;1
+1985;Valence;Artisan, Commercant, Chef d'entreprise TPE;1;14/82/2823;8;288;8;8
+1927;Valence;Artisan, Commercant, Chef d'entreprise TPE;1;88/83/2823;8;288;8;8
+1938;Valence;Artisan, Commercant, Chef d'entreprise TPE;1;19/83/2823;8;135;8;8
+1965;Versailles;Artisan, Commercant, Chef d'entreprise TPE;2;83/82/2823;8;58;8;1
+1977;Versailles;Artisan, Commercant, Chef d'entreprise TPE;2;15/82/2823;8;51;8;6
+1984;Versailles;Artisan, Commercant, Chef d'entreprise TPE;2;15/82/2823;8;51;8;6
+1991;Versailles;Artisan, Commercant, Chef d'entreprise TPE;2;15/82/2823;8;51;8;6
+38;Amiens;Autre;7;82/83/2823;8;23;8;6
+42;Amiens;Autre;7;14/83/2823;8;48;8;7
+162;Belfort ;Autre;2;15/82/2823;8;24;8;8
+174;Belfort ;Autre;2;27/82/2823;8;36;8;8
+186;Besancon;Autre;2;11/83/2823;8;25;8;8
+198;Besancon;Autre;2;82/82/2823;8;25;8;8
+281;Cannes;Autre;1;88/83/2823;8;254;8;1
+386;Cherbourg;Autre;1;12/82/2823;8;51;8;8
+318;Cherbourg;Autre;1;24/82/2823;8;98;8;8
+545;Lorient;Autre;2;86/82/2823;8;48;8;6
+582;Marseille;Autre;2;15/83/2823;8;258;8;52
+594;Marseille;Autre;2;86/82/2823;8;49;8;8
+686;Marseille Saint-Charles;Autre;1;18/82/2823;8;86;8;8
+618;Marseille Saint-Charles;Autre;1;82/83/2823;8;54;8;8
+765;Nantes;Autre;2;88/82/2823;8;51;8;8
+933;Paris Bercy;Autre;1;87/82/2823;8;841;8;8
+944;Paris Bercy;Autre;1;18/82/2823;8;185;8;1
+968;Paris Est;Autre;2;14/83/2823;8;54;8;8
+981;Paris Est;Autre;2;27/83/2823;8;58;8;8
+1829;Paris Montparnasse;Autre;4;27/82/2823;8;25;8;1
+1855;Paris Montparnasse;Autre;4;84/82/2823;8;288;8;7
+1121;Paris St Lazare;Autre;4;28/83/2823;8;54;8;12
+1134;Paris St Lazare;Autre;4;12/82/2823;8;58;8;5
+1185;Poitiers;Autre;4;14/82/2823;8;185;8;8
+1197;Poitiers;Autre;4;26/82/2823;8;541;8;3
+1289;Poitiers;Autre;4;18/83/2823;8;452;8;8
+1256;Reims;Autre;2;14/82/2823;8;18;8;8
+1278;Reims;Autre;2;88/83/2823;8;18;8;8
+1289;Rennes;Autre;2;19/83/2823;8;36;8;3
+1313;Rennes;Autre;2;22/82/2823;8;25;8;8
+1337;Rennes;Autre;2;18/83/2823;8;288;8;2
+1399;Rouen;Autre;2;89/83/2823;8;41;8;8
+1439;Rouen Rive Droite;Autre;2;28/82/2823;8;254;8;8
+1461;Rouen Rive Droite;Autre;2;22/83/2823;8;254;8;8
+1688;Toulouse Matabiau;Autre;2;89/83/2823;8;64;8;8
+1712;Toulouse Matabiau;Autre;2;11/83/2823;8;82;8;8
+1736;Toulouse Matabiau;Autre;2;14/82/2823;8;24;8;12
+1761;Tours;Autre;2;11/83/2823;8;98;8;1
+1773;Tours;Autre;2;82/82/2823;8;68;8;8
+1785;Tours;Autre;2;14/82/2823;8;135;8;6
+1832;Troyes;Autre;2;11/83/2823;8;1562;8;1
+1856;Troyes;Autre;2;14/82/2823;8;48;8;8
+1888;Troyes;Autre;2;18/83/2823;8;41;8;8
+81;Angouleme;Cadre, Chef d'entreprise ;1;84/83/2823;8;841;8;8
+138;Bayonne;Cadre, Chef d'entreprise ;3;12/83/2823;8;452;8;52
+199;Besancon;Cadre, Chef d'entreprise ;2;83/82/2823;8;68;8;2
+289;Biarritz;Cadre, Chef d'entreprise ;1;13/82/2823;8;98;8;8
+366;Dijon;Cadre, Chef d'entreprise ;2;23/82/2823;8;541;8;8
+415;Laval;Cadre, Chef d'entreprise ;2;23/82/2823;8;36;8;8
+585;Marseille;Cadre, Chef d'entreprise ;2;18/83/2823;8;541;8;1
+597;Marseille;Cadre, Chef d'entreprise ;2;89/82/2823;8;452;8;2
+617;Marseille Saint-Charles;Cadre, Chef d'entreprise ;2;81/83/2823;8;64;8;8
+647;Massy;Cadre, Chef d'entreprise ;2;18/82/2823;8;258;8;6
+671;Metz;Cadre, Chef d'entreprise ;2;86/83/2823;8;841;8;8
+729;Mulhouse;Cadre, Chef d'entreprise ;1;15/83/2823;8;82;8;8
+786;Nantes;Cadre, Chef d'entreprise ;2;81/83/2823;8;36;8;9
+847;Nimes;Cadre, Chef d'entreprise ;2;13/83/2823;8;541;8;8
+887;Paris Austerlitz;Cadre, Chef d'entreprise ;1;18/82/2823;8;98;8;8
+935;Paris Bercy;Cadre, Chef d'entreprise ;2;89/82/2823;8;251;8;8
+1849;Paris Montparnasse;Cadre, Chef d'entreprise ;1;19/83/2823;8;36;8;3
+1862;Paris Montparnasse;Cadre, Chef d'entreprise ;1;11/82/2823;8;543;8;8
+1113;Paris St Lazare;Cadre, Chef d'entreprise ;2;12/83/2823;8;48;8;2
+81;Perpignan;Cadre, Chef d'entreprise ;2;81/83/2823;8;135;8;9
+1175;Perpignan;Cadre, Chef d'entreprise ;2;84/82/2823;8;541;8;68
+1254;Reims;Cadre, Chef d'entreprise ;2;12/82/2823;8;23;8;8
+1266;Reims;Cadre, Chef d'entreprise ;2;24/82/2823;8;48;8;3
+1384;Rennes;Cadre, Chef d'entreprise ;2;13/82/2823;8;135;8;2
+1328;Rennes;Cadre, Chef d'entreprise ;2;89/83/2823;8;541;8;8
+1352;Rennes;Cadre, Chef d'entreprise ;2;11/83/2823;8;254;8;5
+1376;Roissy;Cadre, Chef d'entreprise ;1;14/82/2823;8;156;8;8
+1413;Rouen Rive Droite;Cadre, Chef d'entreprise ;2;82/82/2823;8;135;8;8
+1424;Rouen Rive Droite;Cadre, Chef d'entreprise ;2;13/82/2823;8;288;8;9
+1446;Rouen Rive Droite;Cadre, Chef d'entreprise ;2;87/83/2823;8;288;8;8
+1457;Rouen Rive Droite;Cadre, Chef d'entreprise ;2;18/83/2823;8;135;8;1
+1473;Strasbourg;Cadre, Chef d'entreprise ;2;12/83/2823;8;23;8;1
+1497;Strasbourg;Cadre, Chef d'entreprise ;2;15/82/2823;8;18;8;35
+1521;Strasbourg;Cadre, Chef d'entreprise ;2;11/83/2823;8;543;8;1
+1545;Strasbourg;Cadre, Chef d'entreprise ;2;14/82/2823;8;841;8;7
+1569;Strasbourg;Cadre, Chef d'entreprise ;2;18/83/2823;8;251;8;5
+1593;Strasbourg;Cadre, Chef d'entreprise ;2;12/83/2823;8;58;8;8
+1631;Toulon;Cadre, Chef d'entreprise ;2;81/83/2823;8;258;8;8
+1653;Toulon;Cadre, Chef d'entreprise ;2;82/82/2823;8;258;8;8
+1664;Toulon;Cadre, Chef d'entreprise ;2;13/82/2823;8;85;8;3
+1689;Toulouse Matabiau;Cadre, Chef d'entreprise ;1;18/83/2823;8;54;8;8
+1781;Toulouse Matabiau;Cadre, Chef d'entreprise ;1;22/83/2823;8;254;8;8
+1713;Toulouse Matabiau;Cadre, Chef d'entreprise ;1;12/83/2823;8;23;8;12
+1725;Toulouse Matabiau;Cadre, Chef d'entreprise ;1;83/82/2823;8;48;8;2
+1737;Toulouse Matabiau;Cadre, Chef d'entreprise ;1;15/82/2823;8;18;8;35
+1749;Toulouse Matabiau;Cadre, Chef d'entreprise ;1;27/82/2823;8;41;8;5
+1953;Valence;Cadre, Chef d'entreprise ;2;12/83/2823;8;82;8;5
+41;Amiens;Enseignant, Professeur;6;13/83/2823;8;58;8;1
+183;Arles;Enseignant, Professeur;2;85/82/2823;8;841;8;8
+114;Arles;Enseignant, Professeur;2;16/82/2823;8;185;8;8
+129;Avignon;Enseignant, Professeur;2;83/83/2823;8;58;8;8
+141;Bayonne;Enseignant, Professeur;1;15/83/2823;8;51;8;1
+152;Bayonne;Enseignant, Professeur;1;85/82/2823;8;156;8;8
+247;Bordeaux;Enseignant, Professeur;2;82/82/2823;8;54;8;6
+294;Cannes;Enseignant, Professeur;4;21/83/2823;8;51;8;8
+333;Colmar;Enseignant, Professeur;4;11/83/2823;8;64;8;8
+345;Colmar;Enseignant, Professeur;4;82/82/2823;8;251;8;8
+479;Lens;Enseignant, Professeur;1;18/83/2823;8;48;8;8
+534;Lorient;Enseignant, Professeur;1;16/83/2823;8;24;8;8
+546;Lorient;Enseignant, Professeur;1;87/82/2823;8;36;8;8
+558;Lyon;Enseignant, Professeur;1;19/82/2823;8;25;8;8
+569;Lyon;Enseignant, Professeur;1;82/83/2823;8;41;8;1
+631;Massy;Enseignant, Professeur;2;15/83/2823;8;58;8;12
+698;Metz;Enseignant, Professeur;1;84/82/2823;8;98;8;5
+775;Nantes;Enseignant, Professeur;1;18/82/2823;8;18;8;8
+872;Paris;Enseignant, Professeur;4;16/83/2823;8;58;8;35
+896;Paris Austerlitz;Enseignant, Professeur;2;19/82/2823;8;36;8;2
+989;Paris Austerlitz;Enseignant, Professeur;2;84/83/2823;8;543;8;8
+921;Paris Bercy;Enseignant, Professeur;2;16/83/2823;8;288;8;8
+943;Paris Bercy;Enseignant, Professeur;2;17/82/2823;8;288;8;6
+953;Paris Est;Enseignant, Professeur;1;27/82/2823;8;258;8;7
+966;Paris Est;Enseignant, Professeur;1;12/83/2823;8;185;8;6
+998;Paris Gare de Lyon;Enseignant, Professeur;2;89/83/2823;8;54;8;8
+1816;Paris Gare de Lyon;Enseignant, Professeur;2;14/82/2823;8;18;8;3
+1858;Paris Montparnasse;Enseignant, Professeur;2;28/83/2823;8;41;8;8
+1863;Paris Montparnasse;Enseignant, Professeur;2;12/82/2823;8;12;8;8
+1877;Paris Nord;Enseignant, Professeur;2;26/82/2823;8;54;8;1
+1183;Paris Nord;Enseignant, Professeur;2;24/83/2823;8;18;8;8
+1149;Perpignan;Enseignant, Professeur;2;27/82/2823;8;98;8;8
+1161;Perpignan;Enseignant, Professeur;2;11/83/2823;8;68;8;1
+1173;Perpignan;Enseignant, Professeur;2;82/82/2823;8;135;8;8
+1183;Poitiers;Enseignant, Professeur;1;12/82/2823;8;68;8;8
+1287;Poitiers;Enseignant, Professeur;1;88/83/2823;8;584;8;9
+1288;Reims;Enseignant, Professeur;2;18/83/2823;8;98;8;8
+1362;Roissy;Enseignant, Professeur;1;21/83/2823;8;452;8;6
+1375;Roissy;Enseignant, Professeur;1;13/82/2823;8;65;8;5
+1389;Rouen;Enseignant, Professeur;1;27/82/2823;8;98;8;5
+1488;Rouen;Enseignant, Professeur;1;18/83/2823;8;25;8;8
+1463;Rouen Rive Droite;Enseignant, Professeur;2;24/83/2823;8;48;8;12
+1478;Strasbourg;Enseignant, Professeur;2;89/83/2823;8;64;8;52
+1487;Strasbourg;Enseignant, Professeur;1;85/82/2823;8;41;8;6
+1494;Strasbourg;Enseignant, Professeur;2;12/82/2823;8;82;8;8
+1511;Strasbourg;Enseignant, Professeur;1;81/83/2823;8;85;8;2
+1518;Strasbourg;Enseignant, Professeur;2;88/83/2823;8;51;8;8
+1535;Strasbourg;Enseignant, Professeur;1;84/82/2823;8;64;8;6
+1542;Strasbourg;Enseignant, Professeur;2;11/82/2823;8;98;8;12
+1559;Strasbourg;Enseignant, Professeur;1;28/82/2823;8;82;8;8
+1566;Strasbourg;Enseignant, Professeur;2;87/83/2823;8;135;8;35
+1583;Strasbourg;Enseignant, Professeur;1;24/83/2823;8;24;8;8
+1598;Strasbourg;Enseignant, Professeur;2;89/83/2823;8;541;8;1
+1687;Strasbourg;Enseignant, Professeur;1;85/82/2823;8;25;8;8
+1665;Toulon;Enseignant, Professeur;1;14/82/2823;8;49;8;8
+1794;Tours;Enseignant, Professeur;2;23/82/2823;8;25;8;1
+1886;Tours;Enseignant, Professeur;2;87/83/2823;8;258;8;6
+1818;Tours;Enseignant, Professeur;2;19/83/2823;8;49;8;7
+1833;Troyes;Enseignant, Professeur;2;12/83/2823;8;25;8;5
+1845;Troyes;Enseignant, Professeur;2;83/82/2823;8;24;8;9
+1857;Troyes;Enseignant, Professeur;2;15/82/2823;8;36;8;8
+1869;Troyes;Enseignant, Professeur;2;27/82/2823;8;25;8;8
+1881;Troyes;Enseignant, Professeur;2;11/83/2823;8;25;8;3
+1893;Troyes;Enseignant, Professeur;2;82/82/2823;8;258;8;8
+1982;Valence;Enseignant, Professeur;2;11/82/2823;8;41;8;5
+1913;Valence;Enseignant, Professeur;2;22/82/2823;8;25;8;8
+7;Aix en Provence-TGV;Etudiant;1;87/82/2823;8;82;8;6
+18;Aix en Provence-TGV;Etudiant;1;18/82/2823;8;254;8;1
+32;Amiens;Etudiant;7;84/83/2823;8;18;8;6
+78;Angouleme;Etudiant;4;81/83/2823;8;98;8;6
+89;Angouleme;Etudiant;4;12/83/2823;8;25;8;5
+153;Bayonne;Etudiant;1;86/82/2823;8;51;8;2
+218;Biarritz;Etudiant;2;14/82/2823;8;258;8;12
+234;Bordeaux;Etudiant;1;18/83/2823;8;841;8;35
+246;Bordeaux;Etudiant;1;81/82/2823;8;64;8;5
+285;Cannes;Etudiant;2;12/83/2823;8;41;8;8
+296;Cannes;Etudiant;2;82/82/2823;8;528;8;8
+353;Dijon;Etudiant;2;18/82/2823;8;288;8;5
+448;Le Mans;Etudiant;2;28/83/2823;8;85;8;8
+465;Lens;Etudiant;2;24/82/2823;8;54;8;8
+477;Lens;Etudiant;2;88/83/2823;8;254;8;8
+497;Lille Europe;Etudiant;4;87/82/2823;8;541;8;6
+568;Lyon;Etudiant;2;21/82/2823;8;258;8;8
+633;Massy;Etudiant;2;17/83/2823;8;36;8;1
+666;Metz;Etudiant;2;81/83/2823;8;18;8;2
+689;Metz;Etudiant;2;83/82/2823;8;25;8;2
+693;Metz;Etudiant;2;87/82/2823;8;841;8;6
+834;Nimes;Etudiant;2;28/82/2823;8;288;8;8
+871;Paris;Etudiant;2;15/83/2823;8;254;8;12
+897;Paris Austerlitz;Etudiant;4;28/82/2823;8;41;8;6
+918;Paris Bercy;Etudiant;2;13/83/2823;8;51;8;6
+929;Paris Bercy;Etudiant;2;83/82/2823;8;25;8;1
+969;Paris Est;Etudiant;2;15/83/2823;8;82;8;8
+993;Paris Gare de Lyon;Etudiant;2;12/83/2823;8;24;8;3
+1838;Paris Montparnasse;Etudiant;4;88/83/2823;8;18;8;8
+1864;Paris Montparnasse;Etudiant;4;13/82/2823;8;45;8;2
+1888;Paris Nord;Etudiant;2;89/83/2823;8;251;8;5
+1181;Paris Nord;Etudiant;2;22/83/2823;8;23;8;7
+1231;Reims;Etudiant;2;18/83/2823;8;82;8;8
+1383;Rennes;Etudiant;2;12/82/2823;8;258;8;8
+1327;Rennes;Etudiant;2;88/83/2823;8;841;8;23
+1351;Rennes;Etudiant;2;18/83/2823;8;251;8;7
+1367;Roissy;Etudiant;8;85/82/2823;8;528;8;8
+1629;Toulon;Etudiant;4;27/82/2823;8;25;8;8
+1648;Toulon;Etudiant;4;18/83/2823;8;41;8;8
+1662;Toulon;Etudiant;4;11/82/2823;8;41;8;8
+1673;Toulon;Etudiant;4;22/82/2823;8;528;8;8
+1758;Tours;Etudiant;1;88/83/2823;8;24;8;8
+1778;Tours;Etudiant;1;28/83/2823;8;36;8;8
+1782;Tours;Etudiant;1;11/82/2823;8;25;8;5
+1797;Tours;Etudiant;1;26/82/2823;8;185;8;8
+1889;Tours;Etudiant;1;18/83/2823;8;541;8;8
+1821;Tours;Etudiant;1;22/83/2823;8;452;8;8
+1838;Troyes;Etudiant;1;89/83/2823;8;86;8;2
+1842;Troyes;Etudiant;1;21/83/2823;8;54;8;5
+1854;Troyes;Etudiant;1;12/82/2823;8;254;8;6
+1866;Troyes;Etudiant;1;24/82/2823;8;23;8;8
+1878;Troyes;Etudiant;1;88/83/2823;8;48;8;8
+1898;Troyes;Etudiant;1;28/83/2823;8;18;8;8
+1984;Valence;Etudiant;2;13/82/2823;8;68;8;3
+1926;Valence;Etudiant;2;87/83/2823;8;68;8;8
+1937;Valence;Etudiant;2;18/83/2823;8;258;8;3
+1998;Versailles;Etudiant;8;21/82/2823;8;86;8;3
+1999;Versailles;Etudiant;8;21/82/2823;8;86;8;3
+2888;Versailles;Etudiant;8;21/82/2823;8;86;8;3
+9;Aix en Provence-TGV;Militaire;3;89/82/2823;8;24;8;6
+28;Aix en Provence-TGV;Militaire;3;28/82/2823;8;48;8;5
+23;Amiens;Militaire;5;23/82/2823;8;25;8;9
+71;Angouleme;Militaire;8;22/82/2823;8;64;8;8
+95;Arles;Militaire;2;18/83/2823;8;82;8;8
+158;Bayonne;Militaire;3;83/82/2823;8;25;8;8
+223;Biarritz;Militaire;2;27/82/2823;8;185;8;5
+248;Bordeaux;Militaire;2;83/82/2823;8;82;8;2
+258;Caen;Militaire;2;13/82/2823;8;251;8;1
+271;Caen;Militaire;2;26/82/2823;8;23;8;2
+297;Cannes;Militaire;1;83/82/2823;8;543;8;8
+343;Colmar;Militaire;1;21/83/2823;8;841;8;8
+367;Dijon;Militaire;2;24/82/2823;8;251;8;8
+377;Grenoble;Militaire;1;86/83/2823;8;64;8;8
+441;Le Mans;Militaire;1;21/83/2823;8;49;8;8
+453;Le Mans;Militaire;1;12/82/2823;8;86;8;6
+487;Lille Europe;Militaire;2;18/83/2823;8;54;8;5
+511;Lille Flandres;Militaire;2;21/82/2823;8;23;8;8
+641;Massy;Militaire;2;84/82/2823;8;82;8;8
+654;Metz;Militaire;1;17/82/2823;8;48;8;12
+713;Montpellier Saint-Roch;Militaire;4;27/82/2823;8;258;8;5
+727;Mulhouse;Militaire;2;13/83/2823;8;64;8;5
+738;Mulhouse;Militaire;2;24/83/2823;8;541;8;8
+785;Nantes;Militaire;2;28/82/2823;8;48;8;8
+791;Nantes;Militaire;2;86/83/2823;8;185;8;2
+846;Nimes;Militaire;2;12/83/2823;8;841;8;8
+977;Paris Est;Militaire;2;23/83/2823;8;841;8;5
+992;Paris Gare de Lyon;Militaire;1;11/83/2823;8;23;8;8
+1885;Paris Gare de Lyon;Militaire;1;83/82/2823;8;36;8;8
+1889;Paris Nord;Militaire;1;18/83/2823;8;254;8;6
+1111;Paris St Lazare;Militaire;1;18/83/2823;8;254;8;5
+1137;Paris St Lazare;Militaire;1;15/82/2823;8;41;8;6
+1223;Reims;Militaire;2;24/83/2823;8;156;8;12
+1245;Reims;Militaire;2;83/82/2823;8;36;8;8
+1255;Reims;Militaire;2;13/82/2823;8;24;8;8
+1481;Rouen;Militaire;2;11/83/2823;8;68;8;9
+1489;Rouen Rive Droite;Militaire;2;19/83/2823;8;18;8;2
+1481;Strasbourg;Militaire;2;28/83/2823;8;541;8;8
+1585;Strasbourg;Militaire;2;23/82/2823;8;254;8;8
+1529;Strasbourg;Militaire;2;19/83/2823;8;156;8;8
+1553;Strasbourg;Militaire;2;22/82/2823;8;25;8;8
+1577;Strasbourg;Militaire;2;18/83/2823;8;288;8;2
+1681;Strasbourg;Militaire;2;28/83/2823;8;64;8;5
+1641;Toulon;Militaire;2;11/83/2823;8;25;8;3
+1663;Toulon;Militaire;2;12/82/2823;8;25;8;8
+1674;Toulon;Militaire;2;23/82/2823;8;543;8;9
+1783;Toulouse Matabiau;Militaire;4;24/83/2823;8;48;8;5
+1727;Toulouse Matabiau;Militaire;4;85/82/2823;8;41;8;6
+1751;Toulouse Matabiau;Militaire;4;81/83/2823;8;68;8;2
+1768;Tours;Militaire;4;18/83/2823;8;25;8;35
+1784;Tours;Militaire;4;13/82/2823;8;258;8;2
+1799;Tours;Militaire;4;28/82/2823;8;54;8;9
+1895;Valence;Militaire;2;84/82/2823;8;841;8;8
+1917;Valence;Militaire;2;26/82/2823;8;841;8;1
+1928;Valence;Militaire;2;89/83/2823;8;185;8;8
+1958;Valence;Militaire;2;89/83/2823;8;185;8;8
+1976;Versailles;Militaire;2;14/82/2823;8;52;8;5
+273;Caen;Ouvrier, Employer;2;28/82/2823;8;18;8;1
+719;Montpellier Saint-Roch;Ouvrier, Employer;2;85/83/2823;8;58;8;8
+777;Nantes;Ouvrier, Employer;4;28/82/2823;8;98;8;8
+858;Paris;Ouvrier, Employer;1;24/83/2823;8;64;8;8
+878;Paris;Ouvrier, Employer;1;14/83/2823;8;251;8;8
+885;Paris Austerlitz;Ouvrier, Employer;2;88/82/2823;8;18;8;8
+911;Paris Austerlitz;Ouvrier, Employer;2;86/83/2823;8;45;8;9
+1839;Paris Montparnasse;Ouvrier, Employer;2;89/83/2823;8;25;8;8
+1865;Paris Montparnasse;Ouvrier, Employer;2;14/82/2823;8;86;8;5
+1897;Paris Nord;Ouvrier, Employer;1;18/83/2823;8;185;8;8
+1919;Valence;Ouvrier, Employer;2;28/82/2823;8;251;8;23
+1941;Valence;Ouvrier, Employer;2;22/83/2823;8;251;8;35
+1952;Valence;Ouvrier, Employer;2;11/83/2823;8;54;8;2
+1967;Versailles;Ouvrier, Employer;2;85/82/2823;8;36;8;5
+55;Angers;Ouvrier, Employer;4;86/82/2823;8;25;8;6
+126;Avignon;Ouvrier, Employer;2;28/82/2823;8;541;8;5
+191;Besancon;Ouvrier, Employer;2;16/83/2823;8;541;8;5
+239;Bordeaux;Ouvrier, Employer;2;15/83/2823;8;48;8;8
+272;Caen;Ouvrier, Employer;1;27/82/2823;8;24;8;6
+319;Cherbourg;Ouvrier, Employer;2;25/82/2823;8;258;8;9
+344;Colmar;Ouvrier, Employer;2;81/82/2823;8;541;8;8
+381;Grenoble;Ouvrier, Employer;1;18/83/2823;8;24;8;12
+392;Grenoble;Ouvrier, Employer;1;21/83/2823;8;48;8;8
+487;Hendaye;Ouvrier, Employer;1;15/82/2823;8;258;8;7
+417;Laval;Ouvrier, Employer;2;25/82/2823;8;25;8;5
+429;Laval;Ouvrier, Employer;2;89/83/2823;8;258;8;1
+449;Le Mans;Ouvrier, Employer;1;88/82/2823;8;528;8;2
+463;Lens;Ouvrier, Employer;2;22/82/2823;8;185;8;7
+518;Lille Flandres;Ouvrier, Employer;2;28/82/2823;8;82;8;5
+522;Lille Flandres;Ouvrier, Employer;2;84/83/2823;8;58;8;6
+537;Lorient;Ouvrier, Employer;2;19/83/2823;8;98;8;8
+549;Lorient;Ouvrier, Employer;2;18/82/2823;8;68;8;3
+593;Marseille;Ouvrier, Employer;4;85/82/2823;8;85;8;8
+687;Marseille Saint-Charles;Ouvrier, Employer;2;19/82/2823;8;92;8;8
+669;Metz;Ouvrier, Employer;4;84/83/2823;8;258;8;2
+728;Mulhouse;Ouvrier, Employer;2;14/83/2823;8;54;8;8
+753;Nancy;Ouvrier, Employer;2;17/83/2823;8;51;8;3
+833;Nimes;Ouvrier, Employer;1;27/82/2823;8;68;8;8
+957;Paris Est;Ouvrier, Employer;1;83/83/2823;8;251;8;9
+983;Paris Est;Ouvrier, Employer;1;29/83/2823;8;36;8;8
+1825;Paris Gare de Lyon;Ouvrier, Employer;2;23/82/2823;8;58;8;8
+1848;Paris Montparnasse;Ouvrier, Employer;2;18/83/2823;8;98;8;8
+1853;Paris Montparnasse;Ouvrier, Employer;2;82/82/2823;8;49;8;35
+1898;Paris Nord;Ouvrier, Employer;2;19/83/2823;8;64;8;12
+1122;Paris St Lazare;Ouvrier, Employer;2;21/83/2823;8;82;8;35
+1135;Paris St Lazare;Ouvrier, Employer;2;13/82/2823;8;48;8;6
+1169;Perpignan;Ouvrier, Employer;2;19/83/2823;8;18;8;1
+1193;Poitiers;Ouvrier, Employer;2;22/82/2823;8;98;8;6
+1217;Poitiers;Ouvrier, Employer;2;18/83/2823;8;45;8;8
+1247;Reims;Ouvrier, Employer;1;85/82/2823;8;25;8;35
+1257;Reims;Ouvrier, Employer;1;15/82/2823;8;25;8;8
+1269;Reims;Ouvrier, Employer;1;27/82/2823;8;25;8;12
+1279;Reims;Ouvrier, Employer;1;89/83/2823;8;25;8;8
+1423;Rouen Rive Droite;Ouvrier, Employer;2;12/82/2823;8;68;8;8
+1434;Rouen Rive Droite;Ouvrier, Employer;2;23/82/2823;8;258;8;8
+1472;Strasbourg;Ouvrier, Employer;2;11/83/2823;8;82;8;1
+1496;Strasbourg;Ouvrier, Employer;2;14/82/2823;8;24;8;12
+1528;Strasbourg;Ouvrier, Employer;2;18/83/2823;8;528;8;35
+1544;Strasbourg;Ouvrier, Employer;2;13/82/2823;8;135;8;1
+1568;Strasbourg;Ouvrier, Employer;2;89/83/2823;8;541;8;7
+1592;Strasbourg;Ouvrier, Employer;2;11/83/2823;8;254;8;5
+1679;Toulon;Ouvrier, Employer;2;28/82/2823;8;1562;8;2
+1975;Versailles;Ouvrier, Employer;2;13/82/2823;8;358;8;2
+33;Amiens;Retraite;8;85/83/2823;8;25;8;8
+45;Amiens;Retraite;8;17/83/2823;8;25;8;8
+65;Angers;Retraite;2;16/82/2823;8;36;8;7
+137;Bayonne;Retraite;3;11/83/2823;8;288;8;8
+175;Belfort ;Retraite;2;28/82/2823;8;41;8;8
+288;Besancon;Retraite;1;84/82/2823;8;288;8;5
+215;Biarritz;Retraite;2;19/82/2823;8;254;8;8
+257;Caen;Retraite;2;12/82/2823;8;541;8;35
+278;Caen;Retraite;2;25/82/2823;8;82;8;6
+287;Cannes;Retraite;2;14/83/2823;8;85;8;68
+389;Cherbourg;Retraite;2;15/82/2823;8;288;8;3
+321;Cherbourg;Retraite;2;27/82/2823;8;841;8;8
+338;Colmar;Retraite;2;88/83/2823;8;68;8;8
+342;Colmar;Retraite;2;28/83/2823;8;135;8;9
+383;Grenoble;Retraite;1;12/83/2823;8;25;8;1
+485;Hendaye;Retraite;2;13/82/2823;8;25;8;35
+414;Laval;Retraite;2;22/82/2823;8;48;8;8
+426;Laval;Retraite;2;86/83/2823;8;18;8;8
+455;Le Mans;Retraite;4;14/82/2823;8;1562;8;8
+464;Lens;Retraite;4;23/82/2823;8;64;8;5
+521;Lille Flandres;Retraite;1;83/83/2823;8;254;8;2
+535;Lorient;Retraite;2;17/83/2823;8;18;8;8
+573;Lyon;Retraite;1;86/83/2823;8;185;8;8
+599;Marseille;Retraite;2;11/82/2823;8;52;8;6
+688;Marseille Saint-Charles;Retraite;4;28/82/2823;8;1562;8;12
+785;Montpellier Saint-Roch;Retraite;2;19/82/2823;8;64;8;8
+717;Montpellier Saint-Roch;Retraite;2;83/83/2823;8;251;8;1
+751;Nancy;Retraite;2;15/83/2823;8;358;8;8
+761;Nancy;Retraite;2;84/82/2823;8;1562;8;8
+889;Nice;Retraite;2;83/82/2823;8;41;8;9
+849;Nimes;Retraite;2;15/83/2823;8;254;8;35
+928;Paris Bercy;Retraite;2;15/83/2823;8;68;8;6
+942;Paris Bercy;Retraite;2;16/82/2823;8;68;8;2
+978;Paris Est;Retraite;2;24/83/2823;8;541;8;8
+1831;Paris Montparnasse;Retraite;2;81/83/2823;8;288;8;23
+89;Perpignan;Retraite;2;89/83/2823;8;41;8;2
+1271;Reims;Retraite;4;81/83/2823;8;288;8;1
+1281;Reims;Retraite;4;11/83/2823;8;258;8;2
+1385;Rouen;Retraite;1;23/82/2823;8;23;8;6
+1422;Rouen Rive Droite;Retraite;2;11/82/2823;8;25;8;8
+1433;Rouen Rive Droite;Retraite;2;22/82/2823;8;98;8;6
+1655;Toulon;Retraite;2;84/82/2823;8;841;8;8
+1677;Toulon;Retraite;2;26/82/2823;8;86;8;8
+1943;Valence;Retraite;1;24/83/2823;8;58;8;7
+6;Aix en Provence-TGV;Sans emploi;1;86/82/2823;8;54;8;5
+17;Aix en Provence-TGV;Sans emploi;1;17/82/2823;8;251;8;35
+54;Angers;Sans emploi;3;85/82/2823;8;18;8;2
+66;Angers;Sans emploi;3;17/82/2823;8;41;8;5
+151;Bayonne;Sans emploi;1;84/82/2823;8;65;8;8
+161;Belfort ;Sans emploi;2;14/82/2823;8;23;8;3
+225;Biarritz;Sans emploi;1;81/83/2823;8;54;8;2
+233;Bordeaux;Sans emploi;2;89/83/2823;8;135;8;12
+295;Cannes;Sans emploi;2;81/82/2823;8;12;8;8
+335;Colmar;Sans emploi;2;13/83/2823;8;82;8;12
+357;Dijon;Sans emploi;1;14/82/2823;8;82;8;8
+368;Dijon;Sans emploi;1;25/82/2823;8;254;8;8
+398;Grenoble;Sans emploi;2;19/83/2823;8;254;8;8
+481;Hendaye;Sans emploi;1;89/82/2823;8;82;8;3
+583;Lille Europe;Sans emploi;2;13/82/2823;8;41;8;3
+623;Marseille Saint-Charles;Sans emploi;1;87/83/2823;8;25;8;2
+655;Metz;Sans emploi;2;18/82/2823;8;36;8;35
+678;Metz;Sans emploi;2;13/83/2823;8;41;8;35
+888;Nice;Sans emploi;2;15/83/2823;8;258;8;8
+824;Nice;Sans emploi;2;18/82/2823;8;841;8;8
+945;Paris Bercy;Sans emploi;2;19/82/2823;8;64;8;5
+1882;Paris Gare de Lyon;Sans emploi;2;21/83/2823;8;254;8;8
+1815;Paris Gare de Lyon;Sans emploi;2;13/82/2823;8;24;8;8
+1182;Poitiers;Sans emploi;2;11/82/2823;8;25;8;8
+1194;Poitiers;Sans emploi;2;23/82/2823;8;258;8;8
+1286;Poitiers;Sans emploi;2;87/83/2823;8;49;8;8
+1232;Reims;Sans emploi;2;11/83/2823;8;23;8;8
+1242;Reims;Sans emploi;2;21/83/2823;8;254;8;8
+1295;Rennes;Sans emploi;2;84/82/2823;8;64;8;7
+1319;Rennes;Sans emploi;2;28/82/2823;8;82;8;5
+1343;Rennes;Sans emploi;2;24/83/2823;8;24;8;8
+1398;Rouen;Sans emploi;2;88/83/2823;8;36;8;5
+1425;Rouen Rive Droite;Sans emploi;1;14/82/2823;8;185;8;8
+1447;Rouen Rive Droite;Sans emploi;1;88/83/2823;8;185;8;9
+1458;Rouen Rive Droite;Sans emploi;1;19/83/2823;8;841;8;5
+1482;Strasbourg;Sans emploi;2;21/83/2823;8;251;8;8
+1586;Strasbourg;Sans emploi;2;24/82/2823;8;58;8;8
+1538;Strasbourg;Sans emploi;2;28/83/2823;8;51;8;8
+1554;Strasbourg;Sans emploi;2;23/82/2823;8;68;8;2
+1578;Strasbourg;Sans emploi;2;19/83/2823;8;185;8;5
+1682;Strasbourg;Sans emploi;2;21/83/2823;8;54;8;6
+1616;Toulon;Sans emploi;1;14/82/2823;8;48;8;8
+1638;Toulon;Sans emploi;1;88/83/2823;8;48;8;8
+1649;Toulon;Sans emploi;1;19/83/2823;8;24;8;8
+1769;Tours;Sans emploi;2;19/83/2823;8;48;8;1
+1888;Tours;Sans emploi;2;89/83/2823;8;841;8;6
+1841;Troyes;Sans emploi;2;28/83/2823;8;64;8;7
+1865;Troyes;Sans emploi;2;23/82/2823;8;82;8;5
+1889;Troyes;Sans emploi;2;19/83/2823;8;24;8;8
+1929;Valence;Sans emploi;4;18/83/2823;8;64;8;2
+1951;Valence;Sans emploi;4;18/83/2823;8;64;8;8
+1962;Versailles;Sans emploi;1;21/83/2823;8;541;8;8
+1974;Versailles;Sans emploi;1;12/82/2823;8;58;8;1
+21;Aix en Provence-TGV;Edutiant;4;21/82/2823;8;36;8;8
+56;Angers;Edutiant;5;87/82/2823;8;98;8;1
+185;Arles;Edutiant;6;87/82/2823;8;251;8;3
+127;Avignon;Edutiant;2;81/83/2823;8;251;8;8
+185;Besancon;Edutiant;2;18/83/2823;8;18;8;8
+263;Caen;Edutiant;2;18/82/2823;41;58;3;9
+378;Grenoble;Edutiant;2;87/83/2823;54;54;1;3
+425;Laval;Edutiant;4;85/83/2823;24;24;1;8
+462;Lens;Edutiant;1;21/82/2823;288;8;1;8
+474;Lens;Edutiant;1;85/83/2823;52;152;2;6
+486;Lille Europe;Edutiant;2;17/83/2823;64;64;1;7
+498;Lille Europe;Edutiant;2;88/82/2823;8;251;8;18
+527;Lille Flandres;Edutiant;4;89/83/2823;8;52;8;5
+536;Lorient;Edutiant;4;18/83/2823;25;25;8;9
+575;Lyon;Edutiant;4;88/83/2823;54;54;8;12
+583;Marseille;Edutiant;2;16/83/2823;12;13;1;1
+689;Marseille Saint-Charles;Edutiant;2;21/82/2823;25;25;1;1
+621;Marseille Saint-Charles;Edutiant;2;85/83/2823;24;24;1;5
+632;Massy;Edutiant;1;16/83/2823;8;25;8;5
+645;Massy;Edutiant;1;88/82/2823;8;25;8;6
+657;Metz;Edutiant;2;28/82/2823;8;25;8;7
+665;Metz;Edutiant;2;28/82/2823;8;24;8;8
+688;Metz;Edutiant;2;15/83/2823;8;68;8;7
+741;Mulhouse;Edutiant;2;27/83/2823;8;58;8;8
+758;Nancy;Edutiant;2;14/83/2823;8;452;8;8
+798;Nice;Edutiant;2;13/83/2823;8;25;8;8
+818;Nice;Edutiant;2;84/82/2823;8;25;8;8
+822;Nice;Edutiant;2;16/82/2823;8;258;8;3
+863;Paris;Edutiant;1;29/83/2823;8;18;8;2
+882;Paris Austerlitz;Edutiant;1;85/82/2823;8;82;8;8
+895;Paris Austerlitz;Edutiant;1;18/82/2823;8;48;8;6
+954;Paris Est;Edutiant;2;28/82/2823;8;135;8;5
+967;Paris Est;Edutiant;2;13/83/2823;8;64;8;8
+1881;Paris Gare de Lyon;Edutiant;1;28/83/2823;8;251;8;8
+1814;Paris Gare de Lyon;Edutiant;1;12/82/2823;8;23;8;5
+1841;Paris Montparnasse;Edutiant;1;11/83/2823;8;258;8;2
+1874;Paris Nord;Edutiant;2;23/82/2823;8;288;8;8
+1887;Paris Nord;Edutiant;2;88/83/2823;8;541;8;2
+1145;Paris St Lazare;Edutiant;2;23/82/2823;8;23;8;35
+1184;Poitiers;Edutiant;2;13/82/2823;8;288;8;8
+1288;Poitiers;Edutiant;2;89/83/2823;8;288;8;8
+1241;Reims;Edutiant;2;28/83/2823;8;251;8;5
+1365;Roissy;Edutiant;3;83/82/2823;8;51;8;8
+1391;Rouen;Edutiant;4;81/83/2823;8;135;8;3
+1418;Rouen Rive Droite;Edutiant;1;28/83/2823;8;25;8;6
+1471;Strasbourg;Edutiant;4;18/83/2823;8;54;8;68
+1495;Strasbourg;Edutiant;4;13/82/2823;8;23;8;8
+1519;Strasbourg;Edutiant;4;89/83/2823;8;12;8;12
+1543;Strasbourg;Edutiant;4;12/82/2823;8;258;8;35
+1567;Strasbourg;Edutiant;4;88/83/2823;8;841;8;1
+1591;Strasbourg;Edutiant;4;18/83/2823;8;251;8;7
+1617;Toulon;Edutiant;2;15/82/2823;8;36;8;8
+1639;Toulon;Edutiant;2;89/83/2823;8;36;8;8
+1658;Toulon;Edutiant;2;28/83/2823;8;18;8;8
+1686;Toulouse Matabiau;Edutiant;2;87/83/2823;8;288;8;8
+1698;Toulouse Matabiau;Edutiant;2;19/83/2823;8;841;8;8
+1718;Toulouse Matabiau;Edutiant;2;89/83/2823;8;64;8;3
+1722;Toulouse Matabiau;Edutiant;2;21/83/2823;8;251;8;8
+1734;Toulouse Matabiau;Edutiant;2;12/82/2823;8;82;8;8
+1746;Toulouse Matabiau;Edutiant;2;24/82/2823;8;58;8;8
+1887;Tours;Edutiant;2;88/83/2823;8;135;8;2
+79;Angouleme;Technicien, Agent de maitrise;4;82/83/2823;8;258;8;8
+98;Angouleme;Technicien, Agent de maitrise;4;13/83/2823;8;68;8;8
+117;Avignon;Technicien, Agent de maitrise;2;19/82/2823;8;82;8;8
+128;Avignon;Technicien, Agent de maitrise;2;82/83/2823;8;254;8;3
+165;Belfort ;Technicien, Agent de maitrise;3;18/82/2823;8;98;8;35
+177;Belfort ;Technicien, Agent de maitrise;3;82/83/2823;8;68;8;5
+213;Biarritz;Technicien, Agent de maitrise;2;17/82/2823;8;541;8;7
+224;Biarritz;Technicien, Agent de maitrise;2;28/82/2823;8;64;8;6
+385;Cherbourg;Technicien, Agent de maitrise;2;11/82/2823;8;156;8;6
+369;Dijon;Technicien, Agent de maitrise;2;26/82/2823;8;58;8;8
+431;Laval;Technicien, Agent de maitrise;2;11/83/2823;8;841;8;5
+439;Le Mans;Technicien, Agent de maitrise;2;19/83/2823;8;25;8;23
+488;Lille Europe;Technicien, Agent de maitrise;1;19/83/2823;8;82;8;8
+512;Lille Flandres;Technicien, Agent de maitrise;2;22/82/2823;8;24;8;8
+559;Lyon;Technicien, Agent de maitrise;2;28/82/2823;8;98;8;9
+578;Lyon;Technicien, Agent de maitrise;2;83/83/2823;8;25;8;5
+638;Massy;Technicien, Agent de maitrise;2;14/83/2823;8;254;8;8
+656;Metz;Technicien, Agent de maitrise;2;19/82/2823;8;41;8;1
+679;Metz;Technicien, Agent de maitrise;2;14/83/2823;8;25;8;1
+784;Montpellier Saint-Roch;Technicien, Agent de maitrise;1;18/82/2823;8;185;8;5
+743;Mulhouse;Technicien, Agent de maitrise;2;29/83/2823;8;36;8;8
+774;Nantes;Technicien, Agent de maitrise;2;17/82/2823;8;24;8;8
+815;Nice;Technicien, Agent de maitrise;1;89/82/2823;8;54;8;5
+986;Paris Austerlitz;Technicien, Agent de maitrise;2;81/83/2823;8;51;8;1
+919;Paris Bercy;Technicien, Agent de maitrise;4;14/83/2823;8;25;8;2
+938;Paris Bercy;Technicien, Agent de maitrise;4;84/82/2823;8;98;8;7
+959;Paris Est;Technicien, Agent de maitrise;4;85/83/2823;8;58;8;8
+1887;Paris Gare de Lyon;Technicien, Agent de maitrise;4;85/82/2823;8;25;8;8
+1879;Paris Nord;Technicien, Agent de maitrise;2;28/82/2823;8;23;8;5
+1118;Paris St Lazare;Technicien, Agent de maitrise;2;89/83/2823;8;251;8;2
+1136;Paris St Lazare;Technicien, Agent de maitrise;2;14/82/2823;8;36;8;2
+1146;Perpignan;Technicien, Agent de maitrise;1;24/82/2823;8;24;8;1
+88;Perpignan;Technicien, Agent de maitrise;1;88/83/2823;8;36;8;6
+1178;Perpignan;Technicien, Agent de maitrise;1;28/83/2823;8;25;8;7
+1221;Reims;Technicien, Agent de maitrise;1;22/83/2823;8;25;8;5
+1233;Reims;Technicien, Agent de maitrise;1;12/83/2823;8;24;8;2
+1265;Reims;Technicien, Agent de maitrise;1;23/82/2823;8;58;8;19
+1377;Roissy;Technicien, Agent de maitrise;2;15/82/2823;8;51;8;21
+1386;Rouen;Technicien, Agent de maitrise;2;24/82/2823;8;24;8;2
+1449;Rouen Rive Droite;Technicien, Agent de maitrise;1;18/83/2823;8;54;8;15
+1614;Toulon;Technicien, Agent de maitrise;2;12/82/2823;8;254;8;7
+1625;Toulon;Technicien, Agent de maitrise;2;23/82/2823;8;82;8;28
+1697;Toulouse Matabiau;Technicien, Agent de maitrise;1;18/83/2823;8;121;8;9
+1721;Toulouse Matabiau;Technicien, Agent de maitrise;1;28/83/2823;8;25;8;5
+1745;Toulouse Matabiau;Technicien, Agent de maitrise;1;23/82/2823;8;254;8;25
+1775;Tours;Technicien, Agent de maitrise;1;84/82/2823;8;185;8;12
+1823;Troyes;Technicien, Agent de maitrise;2;24/83/2823;8;52;8;9
+1847;Troyes;Technicien, Agent de maitrise;2;85/82/2823;8;25;8;5
+1871;Troyes;Technicien, Agent de maitrise;2;81/83/2823;8;258;8;41
+1983;Valence;Technicien, Agent de maitrise;1;12/82/2823;8;25;8;1
+1914;Valence;Technicien, Agent de maitrise;1;23/82/2823;8;98;8;52
+1961;Versailles;Technicien, Agent de maitrise;2;28/83/2823;8;12;8;1
+123;Avignon;Agriculteur, Exploitant agricole;3;25/82/2823;258;258;1;2
+134;Avignon;Agriculteur, Exploitant agricole;3;88/83/2823;85;85;1;7
+219;Biarritz;Agriculteur, Exploitant agricole;2;23/82/2823;41;41;1;8
+326;Colmar;Agriculteur, Exploitant agricole;2;84/83/2823;48;48;1;6
+435;Laval;Agriculteur, Exploitant agricole;2;15/83/2823;58;58;1;68
+553;Lorient;Agriculteur, Exploitant agricole;2;14/82/2823;54;54;1;35
+683;Marseille Saint-Charles;Agriculteur, Exploitant agricole;2;15/82/2823;543;543;1;8
+638;Massy;Agriculteur, Exploitant agricole;4;81/82/2823;185;185;1;9
+651;Massy;Agriculteur, Exploitant agricole;4;14/82/2823;251;251;1;3
+795;Nantes;Agriculteur, Exploitant agricole;2;18/83/2823;23;23;1;6
+926;Paris Bercy;Agriculteur, Exploitant agricole;1;21/83/2823;23;23;1;8
+937;Paris Bercy;Agriculteur, Exploitant agricole;1;11/82/2823;58;58;1;8
+1835;Paris Montparnasse;Agriculteur, Exploitant agricole;2;85/83/2823;82;82;1;8
+1262;Reims;Agriculteur, Exploitant agricole;4;28/82/2823;541;541;1;6
+1491;Strasbourg;Agriculteur, Exploitant agricole;2;89/82/2823;185;185;1;8
+1515;Strasbourg;Agriculteur, Exploitant agricole;2;85/83/2823;452;452;1;8
+1539;Strasbourg;Agriculteur, Exploitant agricole;2;88/82/2823;24;24;1;3
+1563;Strasbourg;Agriculteur, Exploitant agricole;2;84/83/2823;25;25;1;8
+1587;Strasbourg;Agriculteur, Exploitant agricole;2;28/83/2823;258;258;1;8
+1611;Strasbourg;Agriculteur, Exploitant agricole;2;89/82/2823;841;841;1;12
+1923;Valence;Agriculteur, Exploitant agricole;2;84/83/2823;36;36;1;8
+1934;Valence;Agriculteur, Exploitant agricole;2;15/83/2823;18;18;1;8
+1945;Valence;Agriculteur, Exploitant agricole;2;26/83/2823;36;36;1;8
+75;Angouleme;Artisan, Commercant, Chef d'entreprise TPE;3;26/82/2823;24;24;1;5
+86;Angouleme;Artisan, Commercant, Chef d'entreprise TPE;3;89/83/2823;48;48;1;35
+145;Bayonne;Artisan, Commercant, Chef d'entreprise TPE;1;19/83/2823;12;12;1;8
+579;Marseille;Artisan, Commercant, Chef d'entreprise TPE;1;12/83/2823;18;18;1;5
+614;Marseille Saint-Charles;Artisan, Commercant, Chef d'entreprise TPE;2;26/82/2823;68;68;1;8
+1358;Roissy;Artisan, Commercant, Chef d'entreprise TPE;1;17/83/2823;85;85;1;8
+1371;Roissy;Artisan, Commercant, Chef d'entreprise TPE;1;89/82/2823;86;86;1;12
+1382;Rouen;Artisan, Commercant, Chef d'entreprise TPE;4;28/82/2823;64;64;1;8
+1393;Rouen;Artisan, Commercant, Chef d'entreprise TPE;4;83/83/2823;541;541;1;8
+1659;Toulon;Artisan, Commercant, Chef d'entreprise TPE;2;88/82/2823;58;58;1;2
+1678;Toulon;Artisan, Commercant, Chef d'entreprise TPE;2;19/82/2823;52;52;1;7
+1766;Tours;Artisan, Commercant, Chef d'entreprise TPE;1;16/83/2823;251;251;1;52
+49;Angers;Autre;9;21/83/2823;64;64;1;8
+243;Bordeaux;Autre;4;19/83/2823;68;68;1;8
+433;Laval;Autre;2;13/83/2823;251;251;1;8
+459;Le Mans;Autre;2;18/82/2823;51;51;1;8
+587;Lille Europe;Autre;2;17/82/2823;185;185;1;35
+627;Massy;Autre;1;11/83/2823;841;841;1;8
+686;Metz;Autre;1;21/83/2823;23;23;1;8
+817;Nice;Autre;4;11/82/2823;23;23;1;2
+1881;Paris Nord;Autre;2;82/83/2823;18;18;1;8
+1894;Paris Nord;Autre;2;15/83/2823;25;25;1;8
+83;Perpignan;Autre;2;83/83/2823;541;541;1;8
+1177;Perpignan;Autre;2;86/82/2823;254;254;1;1
+1486;Rouen Rive Droite;Autre;2;16/83/2823;82;82;1;2
+1417;Rouen Rive Droite;Autre;2;86/82/2823;254;254;1;12
+1489;Strasbourg;Autre;4;87/82/2823;68;68;1;6
+1513;Strasbourg;Autre;4;83/83/2823;584;584;1;8
+1537;Strasbourg;Autre;4;86/82/2823;82;82;1;5
+1561;Strasbourg;Autre;4;82/83/2823;24;24;1;8
+1585;Strasbourg;Autre;4;26/83/2823;25;25;1;3
+1689;Strasbourg;Autre;4;87/82/2823;258;258;1;8
+1;Aix en Provence-TGV;Cadre, Chef d'entreprise ;3;81/82/2823;25;25;1;8
+25;Amiens;Cadre, Chef d'entreprise ;5;25/82/2823;288;288;1;8
+171;Belfort ;Cadre, Chef d'entreprise ;2;24/82/2823;254;254;1;9
+241;Bordeaux;Cadre, Chef d'entreprise ;1;17/83/2823;41;41;1;8
+254;Caen;Cadre, Chef d'entreprise ;2;89/82/2823;258;258;1;8
+267;Caen;Cadre, Chef d'entreprise ;2;22/82/2823;185;185;1;8
+289;Cannes;Cadre, Chef d'entreprise ;2;16/83/2823;584;584;1;1
+337;Colmar;Cadre, Chef d'entreprise ;2;15/83/2823;24;24;1;1
+374;Grenoble;Cadre, Chef d'entreprise ;4;83/83/2823;68;68;1;6
+385;Grenoble;Cadre, Chef d'entreprise ;4;14/83/2823;258;258;1;5
+398;Hendaye;Cadre, Chef d'entreprise ;2;86/82/2823;185;185;1;8
+478;Lens;Cadre, Chef d'entreprise ;2;81/83/2823;25;25;1;8
+518;Lille Flandres;Cadre, Chef d'entreprise ;1;28/82/2823;841;841;1;2
+566;Lyon;Cadre, Chef d'entreprise ;2;27/82/2823;58;58;1;6
+577;Lyon;Cadre, Chef d'entreprise ;2;18/83/2823;23;23;1;1
+673;Metz;Cadre, Chef d'entreprise ;2;88/83/2823;251;251;1;8
+819;Nice;Cadre, Chef d'entreprise ;2;13/82/2823;18;18;1;8
+913;Paris Austerlitz;Cadre, Chef d'entreprise ;1;88/83/2823;92;92;1;8
+963;Paris Est;Cadre, Chef d'entreprise ;2;89/83/2823;25;25;1;5
+1198;Poitiers;Cadre, Chef d'entreprise ;2;19/82/2823;24;24;1;5
+1214;Poitiers;Cadre, Chef d'entreprise ;2;15/83/2823;528;528;1;6
+1883;Tours;Cadre, Chef d'entreprise ;2;84/83/2823;18;18;1;8
+1827;Troyes;Cadre, Chef d'entreprise ;4;28/83/2823;543;543;1;2
+1851;Troyes;Cadre, Chef d'entreprise ;4;89/82/2823;841;841;1;5
+1875;Troyes;Cadre, Chef d'entreprise ;4;85/83/2823;251;251;1;6
+62;Angers;Enseignant, Professeur;9;13/82/2823;254;254;1;12
+73;Angouleme;Enseignant, Professeur;2;24/82/2823;82;82;1;8
+195;Besancon;Enseignant, Professeur;2;28/83/2823;48;48;1;8
+363;Dijon;Enseignant, Professeur;1;28/82/2823;258;258;1;8
+457;Le Mans;Enseignant, Professeur;2;16/82/2823;65;65;1;3
+494;Lille Europe;Enseignant, Professeur;4;84/82/2823;258;258;1;8
+531;Lille Flandres;Enseignant, Professeur;2;13/83/2823;54;54;1;1
+758;Nancy;Enseignant, Professeur;2;81/82/2823;45;45;1;1
+886;Nice;Enseignant, Professeur;2;21/83/2823;58;58;1;5
+838;Nice;Enseignant, Professeur;2;24/82/2823;36;36;1;8
+841;Nimes;Enseignant, Professeur;2;87/83/2823;18;18;1;6
+1238;Reims;Enseignant, Professeur;2;17/83/2823;135;135;1;2
+1299;Rennes;Enseignant, Professeur;2;88/82/2823;24;24;1;9
+1323;Rennes;Enseignant, Professeur;2;84/83/2823;25;25;1;68
+1347;Rennes;Enseignant, Professeur;2;28/83/2823;258;258;1;8
+1419;Rouen Rive Droite;Enseignant, Professeur;2;88/82/2823;48;48;1;1
+1438;Rouen Rive Droite;Enseignant, Professeur;2;19/82/2823;24;24;1;5
+1441;Rouen Rive Droite;Enseignant, Professeur;2;82/83/2823;48;48;1;35
+1683;Toulouse Matabiau;Enseignant, Professeur;2;84/83/2823;51;51;1;6
+1787;Toulouse Matabiau;Enseignant, Professeur;2;28/83/2823;68;68;1;8
+1731;Toulouse Matabiau;Enseignant, Professeur;2;89/82/2823;185;185;1;8
+1755;Tours;Enseignant, Professeur;2;85/83/2823;54;54;1;8
+1779;Tours;Enseignant, Professeur;2;88/82/2823;23;23;1;8
+99;Arles;Etudiant;2;81/82/2823;25;25;1;6
+118;Arles;Etudiant;2;12/82/2823;41;41;1;1
+313;Cherbourg;Etudiant;1;19/82/2823;82;82;1;35
+339;Colmar;Etudiant;1;17/83/2823;25;25;1;5
+422;Laval;Etudiant;4;82/83/2823;54;54;1;5
+529;Lille Flandres;Etudiant;2;11/83/2823;185;185;1;12
+555;Lorient;Etudiant;1;16/82/2823;23;23;1;7
+625;Marseille Saint-Charles;Etudiant;2;89/83/2823;258;258;1;8
+721;Montpellier Saint-Roch;Etudiant;2;87/83/2823;36;36;1;8
+1129;Paris St Lazare;Etudiant;2;87/82/2823;135;135;1;8
+1142;Paris St Lazare;Etudiant;2;28/82/2823;64;64;1;8
+1395;Rouen;Etudiant;2;85/83/2823;254;254;1;35
+1478;Strasbourg;Etudiant;1;17/83/2823;258;258;1;8
+1582;Strasbourg;Etudiant;1;28/82/2823;841;841;1;8
+1526;Strasbourg;Etudiant;1;16/83/2823;1562;1562;1;9
+1558;Strasbourg;Etudiant;1;19/82/2823;48;48;1;8
+1574;Strasbourg;Etudiant;1;15/83/2823;41;41;1;8
+1598;Strasbourg;Etudiant;1;17/83/2823;68;68;1;8
+1971;Versailles;Etudiant;1;89/82/2823;49;49;1;8
+1997;Versailles;Etudiant;8;21/82/2823;25;86;1;3
+51;Angers;Militaire;9;82/82/2823;82;82;1;2
+182;Belfort ;Militaire;2;87/83/2823;82;82;1;8
+193;Besancon;Militaire;1;18/83/2823;254;254;1;8
+481;Lens;Militaire;2;12/83/2823;41;41;1;8
+681;Marseille;Militaire;2;13/82/2823;12;12;1;6
+697;Metz;Militaire;2;11/82/2823;58;58;1;3
+745;Nancy;Militaire;2;89/83/2823;25;25;1;2
+891;Paris Austerlitz;Militaire;1;14/82/2823;541;541;1;8
+1825;Troyes;Militaire;1;26/83/2823;12;12;1;8
+1849;Troyes;Militaire;1;87/82/2823;258;258;1;8
+1873;Troyes;Militaire;1;83/83/2823;841;841;1;2
+286;Besancon;Ouvrier, Employer;2;18/82/2823;24;24;1;8
+998;Paris Gare de Lyon;Ouvrier, Employer;2;17/83/2823;135;135;1;1
+1811;Paris Gare de Lyon;Ouvrier, Employer;2;89/82/2823;64;64;1;2
+1118;Paris St Lazare;Ouvrier, Employer;2;17/83/2823;288;288;1;3
+1131;Paris St Lazare;Ouvrier, Employer;2;89/82/2823;541;541;1;8
+1897;Valence;Ouvrier, Employer;2;86/82/2823;251;251;1;5
+38;Amiens;Ouvrier, Employer;6;18/83/2823;541;541;1;8
+169;Belfort ;Ouvrier, Employer;4;22/82/2823;541;541;1;8
+358;Dijon;Ouvrier, Employer;2;87/82/2823;41;41;1;2
+361;Dijon;Ouvrier, Employer;2;18/82/2823;25;25;1;7
+662;Metz;Ouvrier, Employer;2;25/82/2823;54;54;1;8
+769;Nantes;Ouvrier, Employer;2;12/82/2823;185;185;1;5
+782;Nantes;Ouvrier, Employer;2;25/82/2823;251;251;1;7
+1225;Reims;Ouvrier, Employer;1;26/83/2823;25;25;1;1
+1369;Roissy;Ouvrier, Employer;2;87/82/2823;12;12;1;8
+1467;Rouen Rive Droite;Ouvrier, Employer;2;28/83/2823;68;68;1;5
+1635;Toulon;Ouvrier, Employer;2;85/83/2823;251;251;1;6
+1646;Toulon;Ouvrier, Employer;2;16/83/2823;54;54;1;1
+1657;Toulon;Ouvrier, Employer;2;86/82/2823;251;251;1;5
+1681;Toulouse Matabiau;Ouvrier, Employer;2;82/83/2823;65;65;1;6
+1785;Toulouse Matabiau;Ouvrier, Employer;2;26/83/2823;41;41;1;2
+1729;Toulouse Matabiau;Ouvrier, Employer;2;87/82/2823;68;68;1;6
+1753;Tours;Ouvrier, Employer;2;83/83/2823;185;185;1;1
+1777;Tours;Ouvrier, Employer;2;86/82/2823;54;54;1;8
+238;Bordeaux;Retraite;2;86/83/2823;25;25;1;3
+585;Lille Europe;Retraite;2;15/82/2823;68;68;1;8
+649;Massy;Retraite;1;12/82/2823;841;841;1;5
+675;Metz;Retraite;2;18/83/2823;58;58;1;8
+867;Paris;Retraite;2;11/83/2823;135;135;1;8
+1889;Paris Gare de Lyon;Retraite;2;87/82/2823;288;288;1;5
+1822;Paris Gare de Lyon;Retraite;2;28/82/2823;541;541;1;7
+1857;Paris Montparnasse;Retraite;2;86/82/2823;358;358;1;8
+1878;Paris Nord;Retraite;2;19/82/2823;156;156;1;8
+1883;Paris Nord;Retraite;2;84/83/2823;98;98;1;8
+1187;Paris St Lazare;Retraite;2;28/83/2823;135;135;1;8
+1281;Poitiers;Retraite;2;82/83/2823;48;48;1;35
+1227;Reims;Retraite;4;28/83/2823;288;288;1;5
+1249;Reims;Retraite;4;87/82/2823;288;288;1;7
+1297;Rennes;Retraite;2;86/82/2823;82;82;1;8
+1321;Rennes;Retraite;2;82/83/2823;24;24;1;8
+1345;Rennes;Retraite;2;26/83/2823;25;25;1;3
+1622;Toulon;Retraite;2;28/82/2823;185;185;1;8
+1633;Toulon;Retraite;2;83/83/2823;841;841;1;2
+1881;Tours;Retraite;2;82/83/2823;23;23;1;8
+1899;Valence;Retraite;1;88/82/2823;58;58;1;2
+1918;Valence;Retraite;1;19/82/2823;23;23;1;7
+1921;Valence;Retraite;1;82/83/2823;58;58;1;8
+1982;Versailles;Retraite;2;28/82/2823;45;45;1;8
+1989;Versailles;Retraite;2;28/82/2823;45;45;1;8
+1996;Versailles;Retraite;2;28/82/2823;45;45;1;8
+97;Arles;Sans emploi;2;28/83/2823;24;24;1;2
+121;Avignon;Sans emploi;2;23/82/2823;25;25;1;5
+265;Caen;Sans emploi;2;28/82/2823;68;68;1;8
+278;Caen;Sans emploi;2;85/83/2823;841;841;1;8
+382;Cherbourg;Sans emploi;2;88/82/2823;1562;1562;1;5
+411;Hendaye;Sans emploi;1;19/82/2823;251;251;1;9
+446;Le Mans;Sans emploi;1;85/82/2823;52;52;1;8
+542;Lorient;Sans emploi;2;83/82/2823;251;251;1;5
+598;Marseille;Sans emploi;4;82/82/2823;36;36;1;8
+699;Montpellier Saint-Roch;Sans emploi;1;13/82/2823;36;36;1;8
+723;Mulhouse;Sans emploi;2;89/83/2823;25;25;1;12
+734;Mulhouse;Sans emploi;2;28/83/2823;98;98;1;8
+878;Paris;Sans emploi;2;81/82/2823;288;288;1;52
+889;Paris Austerlitz;Sans emploi;2;12/82/2823;135;135;1;8
+982;Paris Austerlitz;Sans emploi;2;25/82/2823;288;288;1;8
+915;Paris Austerlitz;Sans emploi;2;18/83/2823;25;25;1;8
+961;Paris Est;Sans emploi;2;87/83/2823;36;36;1;8
+974;Paris Est;Sans emploi;2;28/83/2823;98;98;1;35
+987;Paris Est;Sans emploi;2;2812;288;288;1;6
+1166;Perpignan;Sans emploi;2;16/83/2823;82;82;1;8
+1694;Toulouse Matabiau;Sans emploi;4;15/83/2823;25;25;1;5
+1718;Toulouse Matabiau;Sans emploi;4;17/83/2823;258;258;1;8
+1742;Toulouse Matabiau;Sans emploi;4;28/82/2823;841;841;1;8
+217;Biarritz;Edutiant;2;21/82/2823;48;48;1;9
+291;Cannes;Edutiant;2;18/83/2823;452;452;1;23
+315;Cherbourg;Edutiant;4;21/82/2823;24;24;1;7
+718;Montpellier Saint-Roch;Edutiant;4;24/82/2823;18;18;1;8
+771;Nantes;Edutiant;1;14/82/2823;54;54;1;2
+843;Nimes;Edutiant;2;89/83/2823;98;98;1;8
+854;Nimes;Edutiant;2;28/83/2823;25;25;1;8
+939;Paris Bercy;Edutiant;4;13/82/2823;36;36;1;2
+958;Paris Bercy;Edutiant;4;24/82/2823;18;18;1;12
+85;Perpignan;Edutiant;1;85/83/2823;254;254;1;8
+1179;Perpignan;Edutiant;1;88/82/2823;48;48;1;23
+1251;Reims;Edutiant;2;89/82/2823;64;64;1;8
+1273;Reims;Edutiant;2;83/83/2823;64;64;1;5
+1286;Rennes;Edutiant;2;16/83/2823;254;254;1;8
+1318;Rennes;Edutiant;2;19/82/2823;48;48;1;5
+1334;Rennes;Edutiant;2;15/83/2823;41;41;1;8
+1443;Rouen Rive Droite;Edutiant;1;84/83/2823;41;41;1;7
+1454;Rouen Rive Droite;Edutiant;1;15/83/2823;25;25;1;6
+1465;Rouen Rive Droite;Edutiant;1;26/83/2823;41;41;1;1
+1838;Troyes;Edutiant;2;17/83/2823;68;68;1;12
+1862;Troyes;Edutiant;2;28/82/2823;185;185;1;35
+1886;Troyes;Edutiant;2;16/83/2823;54;54;1;1
+1969;Versailles;Edutiant;2;87/82/2823;25;25;1;8
+3;Aix en Provence-TGV;Technicien, Agent de maitrise;5;83/82/2823;288;288;1;8
+14;Aix en Provence-TGV;Technicien, Agent de maitrise;5;14/82/2823;135;135;1;8
+27;Amiens;Technicien, Agent de maitrise;6;27/82/2823;64;64;1;8
+147;Bayonne;Technicien, Agent de maitrise;2;21/83/2823;86;86;1;8
+158;Bayonne;Technicien, Agent de maitrise;2;11/82/2823;64;64;1;8
+387;Grenoble;Technicien, Agent de maitrise;2;16/83/2823;841;841;1;8
+489;Hendaye;Technicien, Agent de maitrise;2;17/82/2823;841;841;1;8
+483;Lens;Technicien, Agent de maitrise;1;14/83/2823;68;68;1;12
+747;Nancy;Technicien, Agent de maitrise;1;11/83/2823;49;49;1;6
+793;Nantes;Technicien, Agent de maitrise;2;88/83/2823;54;54;1;6
+865;Paris;Technicien, Agent de maitrise;2;89/83/2823;98;98;1;1
+985;Paris Est;Technicien, Agent de maitrise;4;2812;25;25;1;2
+1833;Paris Montparnasse;Technicien, Agent de maitrise;2;83/83/2823;64;64;1;8
+1846;Paris Montparnasse;Technicien, Agent de maitrise;2;16/83/2823;254;254;1;8
+1859;Paris Montparnasse;Technicien, Agent de maitrise;2;88/82/2823;51;51;1;9
+1185;Paris Nord;Technicien, Agent de maitrise;2;26/83/2823;98;98;1;9
+1283;Poitiers;Technicien, Agent de maitrise;2;84/83/2823;41;41;1;7
+1275;Reims;Technicien, Agent de maitrise;1;85/83/2823;82;82;1;8
+1798;Tours;Technicien, Agent de maitrise;1;19/82/2823;58;58;1;8
+1814;Tours;Technicien, Agent de maitrise;1;15/83/2823;36;36;1;8
+1947;Valence;Technicien, Agent de maitrise;1;28/83/2823;25;25;1;9
+1958;Valence;Technicien, Agent de maitrise;1;17/83/2823;98;98;1;8
+48;Amiens;Agriculteur, Exploitant agricole;6;12/83/2823;254;254;2;35
+91;Angouleme;Agriculteur, Exploitant agricole;3;14/83/2823;288;288;2;8
+154;Bayonne;Agriculteur, Exploitant agricole;1;87/82/2823;25;25;2;5
+288;Biarritz;Agriculteur, Exploitant agricole;2;12/82/2823;25;25;2;8
+274;Caen;Agriculteur, Exploitant agricole;4;81/83/2823;25;25;2;5
+388;Cherbourg;Agriculteur, Exploitant agricole;2;14/82/2823;68;68;2;8
+338;Colmar;Agriculteur, Exploitant agricole;2;16/83/2823;18;18;2;7
+365;Dijon;Agriculteur, Exploitant agricole;4;22/82/2823;841;841;2;9
+448;Le Mans;Agriculteur, Exploitant agricole;2;87/82/2823;12;12;2;8
+466;Lens;Agriculteur, Exploitant agricole;2;25/82/2823;82;82;2;8
+478;Lens;Agriculteur, Exploitant agricole;2;89/83/2823;58;58;2;8
+541;Lorient;Agriculteur, Exploitant agricole;2;82/82/2823;541;541;2;2
+578;Lyon;Agriculteur, Exploitant agricole;1;11/83/2823;24;24;2;7
+596;Marseille;Agriculteur, Exploitant agricole;1;88/82/2823;288;288;2;8
+672;Metz;Agriculteur, Exploitant agricole;1;87/83/2823;541;541;2;8
+869;Paris;Agriculteur, Exploitant agricole;2;13/83/2823;541;541;2;8
+987;Paris Austerlitz;Agriculteur, Exploitant agricole;2;82/83/2823;12;12;2;7
+948;Paris Bercy;Agriculteur, Exploitant agricole;1;22/82/2823;23;23;2;8
+962;Paris Est;Agriculteur, Exploitant agricole;1;88/83/2823;41;41;2;2
+1888;Paris Gare de Lyon;Agriculteur, Exploitant agricole;2;19/83/2823;541;541;2;5
+1813;Paris Gare de Lyon;Agriculteur, Exploitant agricole;2;11/82/2823;82;82;2;1
+1848;Paris Montparnasse;Agriculteur, Exploitant agricole;2;18/83/2823;48;48;2;8
+1861;Paris Montparnasse;Agriculteur, Exploitant agricole;2;18/82/2823;528;528;2;8
+1888;Paris Nord;Agriculteur, Exploitant agricole;1;81/83/2823;24;24;2;8
+1893;Paris Nord;Agriculteur, Exploitant agricole;1;14/83/2823;41;41;2;5
+1186;Paris Nord;Agriculteur, Exploitant agricole;1;27/83/2823;258;258;2;8
+1138;Paris St Lazare;Agriculteur, Exploitant agricole;2;16/82/2823;25;25;2;8
+88;Perpignan;Agriculteur, Exploitant agricole;1;28/82/2823;258;258;2;8
+1162;Perpignan;Agriculteur, Exploitant agricole;1;12/83/2823;288;288;2;5
+1174;Perpignan;Agriculteur, Exploitant agricole;1;83/82/2823;841;841;2;52
+1192;Poitiers;Agriculteur, Exploitant agricole;1;21/82/2823;25;25;2;2
+1216;Poitiers;Agriculteur, Exploitant agricole;1;17/83/2823;12;12;2;6
+1488;Strasbourg;Agriculteur, Exploitant agricole;4;19/83/2823;841;841;2;8
+1584;Strasbourg;Agriculteur, Exploitant agricole;4;22/82/2823;251;251;2;8
+1528;Strasbourg;Agriculteur, Exploitant agricole;4;18/83/2823;65;65;2;8
+1552;Strasbourg;Agriculteur, Exploitant agricole;4;21/82/2823;41;41;2;8
+1576;Strasbourg;Agriculteur, Exploitant agricole;4;17/83/2823;68;68;2;8
+1688;Strasbourg;Agriculteur, Exploitant agricole;4;19/83/2823;185;185;2;2
+1634;Toulon;Agriculteur, Exploitant agricole;2;84/83/2823;541;541;2;5
+1645;Toulon;Agriculteur, Exploitant agricole;2;15/83/2823;64;64;2;35
+1656;Toulon;Agriculteur, Exploitant agricole;2;85/82/2823;541;541;2;2
+1678;Toulon;Agriculteur, Exploitant agricole;2;27/82/2823;92;92;2;8
+1688;Toulouse Matabiau;Agriculteur, Exploitant agricole;1;81/83/2823;25;25;2;5
+1692;Toulouse Matabiau;Agriculteur, Exploitant agricole;1;13/83/2823;24;24;2;1
+1784;Toulouse Matabiau;Agriculteur, Exploitant agricole;1;25/83/2823;36;36;2;6
+1716;Toulouse Matabiau;Agriculteur, Exploitant agricole;1;15/83/2823;25;25;2;7
+1728;Toulouse Matabiau;Agriculteur, Exploitant agricole;1;86/82/2823;25;25;2;2
+1748;Toulouse Matabiau;Agriculteur, Exploitant agricole;1;18/82/2823;258;258;2;5
+1771;Tours;Agriculteur, Exploitant agricole;2;21/83/2823;41;41;2;23
+1798;Tours;Agriculteur, Exploitant agricole;2;27/82/2823;64;64;2;8
+1818;Tours;Agriculteur, Exploitant agricole;2;11/83/2823;251;251;2;8
+1843;Troyes;Agriculteur, Exploitant agricole;2;81/82/2823;82;82;2;8
+1867;Troyes;Agriculteur, Exploitant agricole;2;25/82/2823;24;24;2;8
+1891;Troyes;Agriculteur, Exploitant agricole;2;21/83/2823;25;25;2;9
+1981;Valence;Agriculteur, Exploitant agricole;2;18/82/2823;36;36;2;1
+1912;Valence;Agriculteur, Exploitant agricole;2;21/82/2823;18;18;2;8
+1956;Valence;Agriculteur, Exploitant agricole;2;15/83/2823;18;18;2;6
+1968;Versailles;Agriculteur, Exploitant agricole;2;19/83/2823;135;135;2;3
+5;Aix en Provence-TGV;Artisan, Commercant, Chef d'entreprise TPE;8;85/82/2823;64;64;2;2
+16;Aix en Provence-TGV;Artisan, Commercant, Chef d'entreprise TPE;8;16/82/2823;541;541;2;12
+43;Amiens;Artisan, Commercant, Chef d'entreprise TPE;8;15/83/2823;36;36;2;5
+138;Avignon;Artisan, Commercant, Chef d'entreprise TPE;2;84/83/2823;48;48;2;8
+156;Bayonne;Artisan, Commercant, Chef d'entreprise TPE;1;89/82/2823;288;288;2;2
+164;Belfort ;Artisan, Commercant, Chef d'entreprise TPE;3;17/82/2823;25;25;2;12
+211;Biarritz;Artisan, Commercant, Chef d'entreprise TPE;4;15/82/2823;135;135;2;35
+232;Bordeaux;Artisan, Commercant, Chef d'entreprise TPE;2;88/83/2823;258;258;2;8
+256;Caen;Artisan, Commercant, Chef d'entreprise TPE;2;11/82/2823;841;841;2;12
+269;Caen;Artisan, Commercant, Chef d'entreprise TPE;2;24/82/2823;54;54;2;5
+293;Cannes;Artisan, Commercant, Chef d'entreprise TPE;2;28/83/2823;52;52;2;8
+341;Colmar;Artisan, Commercant, Chef d'entreprise TPE;2;19/83/2823;258;258;2;8
+378;Dijon;Artisan, Commercant, Chef d'entreprise TPE;2;27/82/2823;48;48;2;2
+388;Grenoble;Artisan, Commercant, Chef d'entreprise TPE;2;89/83/2823;23;23;2;8
+483;Hendaye;Artisan, Commercant, Chef d'entreprise TPE;2;11/82/2823;24;24;2;8
+428;Laval;Artisan, Commercant, Chef d'entreprise TPE;1;88/83/2823;98;98;2;35
+461;Lens;Artisan, Commercant, Chef d'entreprise TPE;2;28/82/2823;68;68;2;35
+498;Lille Europe;Artisan, Commercant, Chef d'entreprise TPE;2;21/83/2823;24;24;2;9
+582;Lille Europe;Artisan, Commercant, Chef d'entreprise TPE;2;12/82/2823;36;36;2;8
+514;Lille Flandres;Artisan, Commercant, Chef d'entreprise TPE;2;24/82/2823;25;25;2;8
+526;Lille Flandres;Artisan, Commercant, Chef d'entreprise TPE;2;88/83/2823;25;25;2;3
+572;Lyon;Artisan, Commercant, Chef d'entreprise TPE;2;85/83/2823;288;288;2;3
+626;Marseille Saint-Charles;Artisan, Commercant, Chef d'entreprise TPE;2;18/83/2823;135;135;2;8
+629;Massy;Artisan, Commercant, Chef d'entreprise TPE;4;13/83/2823;251;251;2;8
+658;Metz;Artisan, Commercant, Chef d'entreprise TPE;1;21/82/2823;68;68;2;5
+664;Metz;Artisan, Commercant, Chef d'entreprise TPE;2;27/82/2823;23;23;2;8
+715;Montpellier Saint-Roch;Artisan, Commercant, Chef d'entreprise TPE;2;81/83/2823;841;841;2;2
+733;Mulhouse;Artisan, Commercant, Chef d'entreprise TPE;2;19/83/2823;25;25;2;1
+744;Mulhouse;Artisan, Commercant, Chef d'entreprise TPE;2;38/83/2823;41;41;2;8
+788;Nantes;Artisan, Commercant, Chef d'entreprise TPE;2;23/82/2823;841;841;2;35
+811;Nice;Artisan, Commercant, Chef d'entreprise TPE;1;85/82/2823;68;68;2;8
+858;Nimes;Artisan, Commercant, Chef d'entreprise TPE;4;16/83/2823;58;58;2;1
+938;Paris Bercy;Artisan, Commercant, Chef d'entreprise TPE;2;12/82/2823;48;48;2;8
+949;Paris Bercy;Artisan, Commercant, Chef d'entreprise TPE;2;23/82/2823;24;24;2;8
+968;Paris Est;Artisan, Commercant, Chef d'entreprise TPE;2;86/83/2823;48;48;2;8
+973;Paris Est;Artisan, Commercant, Chef d'entreprise TPE;2;19/83/2823;25;25;2;12
+986;Paris Est;Artisan, Commercant, Chef d'entreprise TPE;2;2812;68;68;2;5
+1884;Paris Gare de Lyon;Artisan, Commercant, Chef d'entreprise TPE;2;82/82/2823;48;48;2;8
+1834;Paris Montparnasse;Artisan, Commercant, Chef d'entreprise TPE;2;84/83/2823;54;54;2;8
+1899;Paris Nord;Artisan, Commercant, Chef d'entreprise TPE;4;28/83/2823;54;54;2;35
+1114;Paris St Lazare;Artisan, Commercant, Chef d'entreprise TPE;2;13/83/2823;36;36;2;6
+1148;Paris St Lazare;Artisan, Commercant, Chef d'entreprise TPE;2;18/82/2823;288;288;2;8
+1148;Perpignan;Artisan, Commercant, Chef d'entreprise TPE;2;26/82/2823;25;25;2;5
+1172;Perpignan;Artisan, Commercant, Chef d'entreprise TPE;2;81/82/2823;258;258;2;8
+1248;Reims;Artisan, Commercant, Chef d'entreprise TPE;2;19/83/2823;541;541;2;1
+1258;Reims;Artisan, Commercant, Chef d'entreprise TPE;2;88/82/2823;185;185;2;5
+1268;Reims;Artisan, Commercant, Chef d'entreprise TPE;2;18/82/2823;135;135;2;6
+1272;Reims;Artisan, Commercant, Chef d'entreprise TPE;2;82/83/2823;185;185;2;7
+1282;Reims;Artisan, Commercant, Chef d'entreprise TPE;2;12/83/2823;135;135;2;5
+1484;Rouen Rive Droite;Artisan, Commercant, Chef d'entreprise TPE;2;14/83/2823;64;64;2;8
+1426;Rouen Rive Droite;Artisan, Commercant, Chef d'entreprise TPE;2;15/82/2823;64;64;2;8
+1459;Rouen Rive Droite;Artisan, Commercant, Chef d'entreprise TPE;2;28/83/2823;541;541;2;8
+1493;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;11/82/2823;54;54;2;3
+1517;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;87/83/2823;52;52;2;8
+1541;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;18/82/2823;25;25;2;8
+1565;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;86/83/2823;258;258;2;12
+1589;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;38/83/2823;841;841;2;35
+1613;Strasbourg;Artisan, Commercant, Chef d'entreprise TPE;2;11/82/2823;251;251;2;1
+1637;Toulon;Artisan, Commercant, Chef d'entreprise TPE;2;87/83/2823;58;58;2;6
+1648;Toulon;Artisan, Commercant, Chef d'entreprise TPE;2;18/83/2823;23;23;2;5
+1699;Toulouse Matabiau;Artisan, Commercant, Chef d'entreprise TPE;2;28/83/2823;541;541;2;8
+1723;Toulouse Matabiau;Artisan, Commercant, Chef d'entreprise TPE;2;81/82/2823;254;254;2;8
+1747;Toulouse Matabiau;Artisan, Commercant, Chef d'entreprise TPE;2;25/82/2823;48;48;2;8
+1754;Tours;Artisan, Commercant, Chef d'entreprise TPE;1;84/83/2823;64;64;2;5
+1778;Tours;Artisan, Commercant, Chef d'entreprise TPE;1;87/82/2823;82;82;2;8
+1885;Tours;Artisan, Commercant, Chef d'entreprise TPE;1;86/83/2823;98;98;2;5
+1848;Troyes;Artisan, Commercant, Chef d'entreprise TPE;2;19/83/2823;185;185;2;1
+1864;Troyes;Artisan, Commercant, Chef d'entreprise TPE;2;22/82/2823;54;54;2;7
+1888;Troyes;Artisan, Commercant, Chef d'entreprise TPE;2;18/83/2823;23;23;2;5
+1894;Valence;Artisan, Commercant, Chef d'entreprise TPE;1;83/82/2823;135;135;2;8
+1916;Valence;Artisan, Commercant, Chef d'entreprise TPE;1;25/82/2823;135;135;2;1
+1949;Valence;Artisan, Commercant, Chef d'entreprise TPE;1;38/83/2823;288;288;2;8
+61;Angers;Autre;9;12/82/2823;251;251;2;8
+264;Caen;Autre;1;19/82/2823;25;25;2;8
+277;Caen;Autre;1;84/83/2823;135;135;2;8
+334;Colmar;Autre;2;12/83/2823;54;54;2;8
+346;Colmar;Autre;2;83/82/2823;254;254;2;8
+373;Grenoble;Autre;2;82/83/2823;25;25;2;2
+384;Grenoble;Autre;2;13/83/2823;98;98;2;7
+421;Laval;Autre;2;81/83/2823;64;64;2;1
+472;Lens;Autre;2;83/83/2823;258;258;2;2
+516;Lille Flandres;Autre;2;26/82/2823;258;258;2;8
+528;Lille Flandres;Autre;2;18/83/2823;288;288;2;8
+533;Lorient;Autre;2;15/83/2823;23;23;2;5
+648;Massy;Autre;1;83/82/2823;54;54;2;8
+778;Nantes;Autre;2;21/82/2823;258;258;2;8
+885;Nice;Autre;4;28/83/2823;254;254;2;7
+829;Nice;Autre;4;23/82/2823;48;48;2;5
+886;Paris Austerlitz;Autre;2;89/82/2823;25;25;2;8
+912;Paris Austerlitz;Autre;2;87/83/2823;86;86;2;8
+922;Paris Bercy;Autre;1;17/83/2823;185;185;2;8
+955;Paris Est;Autre;2;81/83/2823;841;841;2;8
+1888;Paris Gare de Lyon;Autre;2;86/82/2823;68;68;2;2
+1821;Paris Gare de Lyon;Autre;2;19/82/2823;841;841;2;1
+1842;Paris Montparnasse;Autre;4;12/83/2823;135;135;2;5
+1868;Paris Nord;Autre;2;17/82/2823;25;25;2;6
+1165;Perpignan;Autre;2;15/83/2823;54;54;2;8
+1224;Reims;Autre;2;25/83/2823;51;51;2;35
+1236;Reims;Autre;2;15/83/2823;98;98;2;5
+1246;Reims;Autre;2;84/82/2823;41;41;2;12
+1268;Reims;Autre;2;26/82/2823;41;41;2;8
+1381;Rennes;Autre;2;18/82/2823;25;25;2;8
+1325;Rennes;Autre;2;86/83/2823;258;258;2;1
+1349;Rennes;Autre;2;38/83/2823;841;841;2;35
+1368;Roissy;Autre;2;19/83/2823;584;584;2;2
+1373;Roissy;Autre;2;11/82/2823;1562;1562;2;1
+1388;Rouen;Autre;2;26/82/2823;25;25;2;1
+1428;Rouen Rive Droite;Autre;2;17/82/2823;82;82;2;8
+1458;Rouen Rive Droite;Autre;2;11/83/2823;82;82;2;8
+1788;Toulouse Matabiau;Autre;2;21/83/2823;251;251;2;8
+1724;Toulouse Matabiau;Autre;2;82/82/2823;58;58;2;8
+1748;Toulouse Matabiau;Autre;2;26/82/2823;36;36;2;2
+1788;Tours;Autre;2;17/82/2823;251;251;2;8
+1888;Tours;Autre;2;81/83/2823;82;82;2;8
+1812;Tours;Autre;2;13/83/2823;58;58;2;3
+1844;Troyes;Autre;2;82/82/2823;23;23;2;8
+1868;Troyes;Autre;2;26/82/2823;18;18;2;9
+1892;Troyes;Autre;2;81/82/2823;98;98;2;8
+12;Aix en Provence-TGV;Cadre, Chef d'entreprise ;3;12/82/2823;98;98;2;8
+37;Amiens;Cadre, Chef d'entreprise ;5;89/83/2823;841;841;2;8
+58;Angers;Cadre, Chef d'entreprise ;7;89/82/2823;135;135;2;8
+78;Angers;Cadre, Chef d'entreprise ;7;21/82/2823;185;185;2;8
+92;Angouleme;Cadre, Chef d'entreprise ;1;15/83/2823;185;185;2;9
+98;Arles;Cadre, Chef d'entreprise ;2;21/83/2823;18;18;2;5
+189;Arles;Cadre, Chef d'entreprise ;2;11/82/2823;36;36;2;35
+128;Avignon;Cadre, Chef d'entreprise ;2;22/82/2823;18;18;2;2
+149;Bayonne;Cadre, Chef d'entreprise ;3;82/82/2823;1562;8;2;8
+187;Besancon;Cadre, Chef d'entreprise ;2;12/83/2823;98;98;2;12
+229;Bordeaux;Cadre, Chef d'entreprise ;1;85/83/2823;18;18;2;8
+388;Cannes;Cadre, Chef d'entreprise ;2;86/82/2823;86;86;2;8
+312;Cherbourg;Cadre, Chef d'entreprise ;4;18/82/2823;54;54;2;12
+324;Cherbourg;Cadre, Chef d'entreprise ;4;82/83/2823;254;254;2;2
+325;Colmar;Cadre, Chef d'entreprise ;2;83/83/2823;58;58;2;5
+355;Dijon;Cadre, Chef d'entreprise ;2;12/82/2823;64;64;2;3
+488;Hendaye;Cadre, Chef d'entreprise ;2;16/82/2823;135;135;2;5
+427;Laval;Cadre, Chef d'entreprise ;2;87/83/2823;25;25;2;12
+444;Le Mans;Cadre, Chef d'entreprise ;2;83/82/2823;452;452;2;8
+456;Le Mans;Cadre, Chef d'entreprise ;2;15/82/2823;25;25;2;8
+482;Lens;Cadre, Chef d'entreprise ;2;13/83/2823;25;25;2;8
+492;Lille Europe;Cadre, Chef d'entreprise ;1;82/82/2823;25;25;2;8
+584;Lille Europe;Cadre, Chef d'entreprise ;1;14/82/2823;25;25;2;8
+538;Lille Flandres;Cadre, Chef d'entreprise ;1;12/83/2823;64;64;2;35
+548;Lorient;Cadre, Chef d'entreprise ;2;81/82/2823;841;841;2;8
+552;Lorient;Cadre, Chef d'entreprise ;2;13/82/2823;64;64;2;12
+685;Marseille Saint-Charles;Cadre, Chef d'entreprise ;2;17/82/2823;45;45;2;3
+634;Massy;Cadre, Chef d'entreprise ;2;18/83/2823;41;41;2;7
+694;Metz;Cadre, Chef d'entreprise ;2;88/82/2823;541;541;2;8
+696;Metz;Cadre, Chef d'entreprise ;2;18/82/2823;254;254;2;8
+786;Montpellier Saint-Roch;Cadre, Chef d'entreprise ;2;28/82/2823;54;54;2;8
+718;Montpellier Saint-Roch;Cadre, Chef d'entreprise ;2;84/83/2823;254;254;2;5
+748;Mulhouse;Cadre, Chef d'entreprise ;1;26/83/2823;254;254;2;8
+749;Nancy;Cadre, Chef d'entreprise ;4;13/83/2823;288;288;2;6
+773;Nantes;Cadre, Chef d'entreprise ;2;16/82/2823;23;23;2;8
+792;Nantes;Cadre, Chef d'entreprise ;2;87/83/2823;64;64;2;5
+836;Nimes;Cadre, Chef d'entreprise ;2;82/83/2823;64;64;2;8
+864;Paris;Cadre, Chef d'entreprise ;2;38/83/2823;25;25;2;6
+876;Paris;Cadre, Chef d'entreprise ;2;28/83/2823;25;25;2;8
+988;Paris Austerlitz;Cadre, Chef d'entreprise ;1;23/82/2823;49;49;2;8
+924;Paris Bercy;Cadre, Chef d'entreprise ;2;19/83/2823;54;54;2;3
+946;Paris Bercy;Cadre, Chef d'entreprise ;2;28/82/2823;54;54;2;8
+976;Paris Est;Cadre, Chef d'entreprise ;2;22/83/2823;135;135;2;7
+989;Paris Est;Cadre, Chef d'entreprise ;2;2812;64;64;2;6
+997;Paris Gare de Lyon;Cadre, Chef d'entreprise ;1;16/83/2823;258;258;2;35
+1818;Paris Gare de Lyon;Cadre, Chef d'entreprise ;1;88/82/2823;185;185;2;6
+1869;Paris Nord;Cadre, Chef d'entreprise ;2;18/82/2823;65;65;2;8
+1882;Paris Nord;Cadre, Chef d'entreprise ;2;83/83/2823;25;25;2;9
+1126;Paris St Lazare;Cadre, Chef d'entreprise ;2;84/82/2823;25;25;2;8
+1282;Poitiers;Cadre, Chef d'entreprise ;2;83/83/2823;36;36;2;1
+1222;Reims;Cadre, Chef d'entreprise ;2;23/83/2823;65;65;2;8
+1234;Reims;Cadre, Chef d'entreprise ;2;13/83/2823;18;18;2;8
+1244;Reims;Cadre, Chef d'entreprise ;2;82/82/2823;48;48;2;8
+1292;Rennes;Cadre, Chef d'entreprise ;2;81/82/2823;68;68;2;12
+1316;Rennes;Cadre, Chef d'entreprise ;2;25/82/2823;185;185;2;35
+1348;Rennes;Cadre, Chef d'entreprise ;2;21/83/2823;54;54;2;2
+1363;Roissy;Cadre, Chef d'entreprise ;1;81/82/2823;358;358;2;2
+1394;Rouen;Cadre, Chef d'entreprise ;2;84/83/2823;251;251;2;12
+1435;Rouen Rive Droite;Cadre, Chef d'entreprise ;2;24/82/2823;135;135;2;8
+1477;Strasbourg;Cadre, Chef d'entreprise ;2;16/83/2823;98;98;2;8
+1581;Strasbourg;Cadre, Chef d'entreprise ;2;19/82/2823;135;135;2;8
+1525;Strasbourg;Cadre, Chef d'entreprise ;2;15/83/2823;92;92;2;8
+1549;Strasbourg;Cadre, Chef d'entreprise ;2;18/82/2823;58;58;2;9
+1573;Strasbourg;Cadre, Chef d'entreprise ;2;14/83/2823;36;36;2;8
+1597;Strasbourg;Cadre, Chef d'entreprise ;2;16/83/2823;25;25;2;8
+1628;Toulon;Cadre, Chef d'entreprise ;2;18/82/2823;68;68;2;1
+1642;Toulon;Cadre, Chef d'entreprise ;2;12/83/2823;68;68;2;8
+1675;Toulon;Cadre, Chef d'entreprise ;2;24/82/2823;12;12;2;8
+1752;Tours;Cadre, Chef d'entreprise ;2;82/83/2823;288;288;2;6
+1764;Tours;Cadre, Chef d'entreprise ;2;14/83/2823;841;841;2;8
+1776;Tours;Cadre, Chef d'entreprise ;2;85/82/2823;64;64;2;8
+1898;Valence;Cadre, Chef d'entreprise ;2;87/82/2823;254;254;2;6
+1989;Valence;Cadre, Chef d'entreprise ;2;18/82/2823;82;82;2;1
+1928;Valence;Cadre, Chef d'entreprise ;2;81/83/2823;254;254;2;8
+1942;Valence;Cadre, Chef d'entreprise ;2;23/83/2823;254;254;2;1
+1968;Versailles;Cadre, Chef d'entreprise ;4;86/82/2823;41;41;2;8
+1988;Versailles;Cadre, Chef d'entreprise ;4;18/82/2823;543;543;2;1
+1987;Versailles;Cadre, Chef d'entreprise ;4;18/82/2823;543;543;2;1
+1994;Versailles;Cadre, Chef d'entreprise ;4;18/82/2823;543;543;2;1
+29;Amiens;Enseignant, Professeur;6;81/83/2823;82;82;2;5
+58;Angers;Enseignant, Professeur;9;81/82/2823;54;54;2;8
+84;Angouleme;Enseignant, Professeur;2;87/83/2823;254;254;2;8
+118;Avignon;Enseignant, Professeur;2;28/82/2823;23;23;2;8
+168;Belfort ;Enseignant, Professeur;6;21/82/2823;841;841;2;5
+188;Belfort ;Enseignant, Professeur;6;85/83/2823;64;64;2;6
+216;Biarritz;Enseignant, Professeur;2;28/82/2823;58;58;2;8
+235;Bordeaux;Enseignant, Professeur;2;11/83/2823;541;541;2;1
+262;Caen;Enseignant, Professeur;2;17/82/2823;36;36;2;8
+283;Cannes;Enseignant, Professeur;4;18/83/2823;48;48;2;5
+318;Cherbourg;Enseignant, Professeur;1;16/82/2823;185;185;2;8
+322;Cherbourg;Enseignant, Professeur;1;28/82/2823;541;541;2;8
+352;Dijon;Enseignant, Professeur;1;89/82/2823;68;68;2;1
+386;Grenoble;Enseignant, Professeur;2;15/83/2823;135;135;2;8
+488;Hendaye;Enseignant, Professeur;2;88/82/2823;54;54;2;8
+418;Hendaye;Enseignant, Professeur;2;18/82/2823;541;541;2;8
+428;Laval;Enseignant, Professeur;1;28/82/2823;185;185;2;6
+432;Laval;Enseignant, Professeur;1;12/83/2823;541;541;2;8
+445;Le Mans;Enseignant, Professeur;2;84/82/2823;358;358;2;8
+586;Lille Europe;Enseignant, Professeur;4;16/82/2823;288;288;2;12
+592;Marseille;Enseignant, Professeur;2;84/82/2823;25;25;2;8
+612;Marseille Saint-Charles;Enseignant, Professeur;2;24/82/2823;51;51;2;5
+624;Marseille Saint-Charles;Enseignant, Professeur;2;88/83/2823;98;98;2;6
+644;Massy;Enseignant, Professeur;2;87/82/2823;18;18;2;5
+667;Metz;Enseignant, Professeur;1;82/83/2823;25;25;2;5
+682;Metz;Enseignant, Professeur;2;17/83/2823;185;185;2;8
+712;Montpellier Saint-Roch;Enseignant, Professeur;2;26/82/2823;98;98;2;2
+742;Mulhouse;Enseignant, Professeur;4;28/83/2823;48;48;2;8
+788;Nantes;Enseignant, Professeur;1;83/83/2823;25;25;2;8
+794;Nantes;Enseignant, Professeur;1;89/83/2823;82;82;2;2
+818;Nice;Enseignant, Professeur;2;12/82/2823;24;24;2;6
+852;Nimes;Enseignant, Professeur;2;18/83/2823;36;36;2;5
+868;Paris;Enseignant, Professeur;4;26/83/2823;82;82;2;2
+883;Paris Austerlitz;Enseignant, Professeur;2;86/82/2823;23;23;2;23
+932;Paris Bercy;Enseignant, Professeur;2;86/82/2823;135;135;2;8
+979;Paris Est;Enseignant, Professeur;1;25/83/2823;251;251;2;8
+1883;Paris Gare de Lyon;Enseignant, Professeur;2;81/82/2823;58;58;2;9
+1837;Paris Montparnasse;Enseignant, Professeur;2;87/83/2823;24;24;2;8
+1898;Paris Nord;Enseignant, Professeur;2;11/83/2823;58;58;2;2
+1128;Paris St Lazare;Enseignant, Professeur;1;86/82/2823;258;258;2;9
+1141;Paris St Lazare;Enseignant, Professeur;1;19/82/2823;185;185;2;3
+1195;Poitiers;Enseignant, Professeur;1;24/82/2823;135;135;2;8
+1226;Reims;Enseignant, Professeur;2;27/83/2823;68;68;2;7
+1248;Reims;Enseignant, Professeur;2;86/82/2823;68;68;2;1
+1258;Reims;Enseignant, Professeur;2;16/82/2823;98;98;2;2
+1278;Reims;Enseignant, Professeur;2;28/82/2823;68;68;2;35
+1488;Rouen Rive Droite;Enseignant, Professeur;2;18/83/2823;24;24;2;6
+1452;Rouen Rive Droite;Enseignant, Professeur;2;13/83/2823;24;24;2;2
+1621;Toulon;Enseignant, Professeur;1;19/82/2823;288;288;2;1
+1632;Toulon;Enseignant, Professeur;1;82/83/2823;135;135;2;8
+1654;Toulon;Enseignant, Professeur;1;83/82/2823;135;135;2;8
+1676;Toulon;Enseignant, Professeur;1;25/82/2823;45;45;2;8
+1946;Valence;Enseignant, Professeur;2;27/83/2823;41;41;2;8
+1957;Valence;Enseignant, Professeur;2;16/83/2823;25;25;2;8
+1966;Versailles;Enseignant, Professeur;1;84/82/2823;48;48;2;7
+1978;Versailles;Enseignant, Professeur;1;16/82/2823;12;12;2;2
+1985;Versailles;Enseignant, Professeur;1;16/82/2823;12;12;2;2
+1992;Versailles;Enseignant, Professeur;1;16/82/2823;12;12;2;2
+44;Amiens;Etudiant;7;16/83/2823;41;41;2;8
+64;Angers;Etudiant;1;15/82/2823;48;48;2;1
+125;Avignon;Etudiant;3;27/82/2823;841;841;2;1
+136;Avignon;Etudiant;3;18/83/2823;584;584;2;8
+142;Bayonne;Etudiant;1;16/83/2823;12;12;2;8
+168;Belfort ;Etudiant;2;13/82/2823;82;82;2;8
+198;Besancon;Etudiant;4;15/83/2823;841;841;2;7
+282;Besancon;Etudiant;4;86/82/2823;64;64;2;2
+221;Biarritz;Etudiant;2;25/82/2823;68;68;2;8
+381;Cherbourg;Etudiant;1;87/82/2823;92;92;2;2
+382;Grenoble;Etudiant;2;11/83/2823;18;18;2;35
+394;Hendaye;Etudiant;4;82/82/2823;41;41;2;5
+484;Hendaye;Etudiant;4;12/82/2823;18;18;2;12
+434;Laval;Etudiant;4;14/83/2823;254;254;2;52
+452;Le Mans;Etudiant;2;11/82/2823;45;45;2;2
+485;Lille Europe;Etudiant;4;16/83/2823;185;185;2;1
+517;Lille Flandres;Etudiant;2;27/82/2823;135;135;2;8
+571;Lyon;Etudiant;2;84/83/2823;68;68;2;8
+588;Marseille;Etudiant;1;21/83/2823;58;58;2;8
+688;Marseille;Etudiant;1;12/82/2823;51;51;2;2
+613;Marseille Saint-Charles;Etudiant;2;25/82/2823;25;25;2;8
+646;Massy;Etudiant;2;89/82/2823;98;98;2;2
+678;Metz;Etudiant;2;85/83/2823;135;135;2;6
+789;Montpellier Saint-Roch;Etudiant;2;23/82/2823;24;24;2;8
+746;Nancy;Etudiant;2;18/83/2823;85;85;2;5
+756;Nancy;Etudiant;2;28/83/2823;543;543;2;12
+768;Nantes;Etudiant;4;11/82/2823;288;288;2;2
+781;Nantes;Etudiant;4;24/82/2823;541;541;2;1
+882;Nice;Etudiant;2;17/83/2823;841;841;2;12
+814;Nice;Etudiant;2;88/82/2823;64;64;2;2
+826;Nice;Etudiant;2;28/82/2823;251;251;2;35
+845;Nimes;Etudiant;2;11/83/2823;135;135;2;3
+859;Paris;Etudiant;2;25/83/2823;54;54;2;8
+884;Paris Austerlitz;Etudiant;4;87/82/2823;24;24;2;8
+918;Paris Austerlitz;Etudiant;4;85/83/2823;12;12;2;8
+956;Paris Est;Etudiant;2;82/83/2823;541;541;2;8
+982;Paris Est;Etudiant;2;28/83/2823;48;48;2;8
+1886;Paris Gare de Lyon;Etudiant;2;84/82/2823;41;41;2;8
+1851;Paris Montparnasse;Etudiant;4;21/83/2823;25;25;2;8
+1875;Paris Nord;Etudiant;2;24/82/2823;185;185;2;12
+1116;Paris St Lazare;Etudiant;2;15/83/2823;25;25;2;8
+1168;Perpignan;Etudiant;2;18/83/2823;24;24;2;35
+1188;Poitiers;Etudiant;1;17/82/2823;82;82;2;8
+1288;Poitiers;Etudiant;1;81/83/2823;58;58;2;12
+1212;Poitiers;Etudiant;1;13/83/2823;51;51;2;2
+1219;Reims;Etudiant;2;28/83/2823;92;92;2;8
+1291;Rennes;Etudiant;2;21/83/2823;25;25;2;8
+1315;Rennes;Etudiant;2;24/82/2823;288;288;2;12
+1339;Rennes;Etudiant;2;28/83/2823;64;64;2;6
+1388;Roissy;Etudiant;8;18/82/2823;288;288;2;8
+1384;Rouen;Etudiant;2;22/82/2823;82;82;2;5
+1418;Rouen Rive Droite;Etudiant;4;87/82/2823;58;58;2;35
+1429;Rouen Rive Droite;Etudiant;4;18/82/2823;23;23;2;2
+1448;Rouen Rive Droite;Etudiant;4;81/83/2823;58;58;2;12
+1462;Rouen Rive Droite;Etudiant;4;23/83/2823;58;58;2;8
+1476;Strasbourg;Etudiant;2;15/83/2823;25;25;2;8
+452;Strasbourg;Etudiant;2;18/82/2823;258;258;2;5
+1524;Strasbourg;Etudiant;2;14/83/2823;86;86;2;8
+1548;Strasbourg;Etudiant;2;17/82/2823;254;254;2;8
+1572;Strasbourg;Etudiant;2;13/83/2823;48;48;2;9
+1596;Strasbourg;Etudiant;2;15/83/2823;41;41;2;8
+1618;Toulon;Etudiant;4;16/82/2823;41;41;2;52
+1651;Toulon;Etudiant;4;21/83/2823;25;25;2;9
+1696;Toulouse Matabiau;Etudiant;2;17/83/2823;258;258;2;8
+1728;Toulouse Matabiau;Etudiant;2;19/83/2823;841;841;2;9
+1744;Toulouse Matabiau;Etudiant;2;22/82/2823;251;251;2;8
+1915;Valence;Etudiant;2;24/82/2823;258;258;2;68
+82;Angouleme;Militaire;8;85/83/2823;541;541;2;3
+186;Arles;Militaire;2;88/82/2823;254;254;2;8
+122;Avignon;Militaire;3;24/82/2823;98;98;2;6
+133;Avignon;Militaire;3;87/83/2823;25;25;2;1
+139;Bayonne;Militaire;3;13/83/2823;358;358;2;68
+178;Belfort ;Militaire;2;23/82/2823;251;251;2;8
+285;Besancon;Militaire;1;89/82/2823;23;23;2;5
+212;Biarritz;Militaire;2;16/82/2823;841;841;2;1
+236;Bordeaux;Militaire;2;12/83/2823;251;251;2;7
+286;Cannes;Militaire;1;13/83/2823;25;25;2;52
+384;Cherbourg;Militaire;2;18/82/2823;65;65;2;2
+331;Colmar;Militaire;1;89/83/2823;288;288;2;8
+356;Dijon;Militaire;2;13/82/2823;54;54;2;8
+424;Laval;Militaire;2;84/83/2823;23;23;2;3
+469;Lens;Militaire;2;28/82/2823;18;18;2;8
+499;Lille Europe;Militaire;2;89/82/2823;254;254;2;6
+135;Lille Flandres;Militaire;2;85/83/2823;48;48;2;8
+538;Lorient;Militaire;2;28/83/2823;258;258;2;8
+558;Lorient;Militaire;2;11/82/2823;288;288;2;8
+557;Lyon;Militaire;2;18/82/2823;18;18;2;8
+568;Lyon;Militaire;2;81/83/2823;36;36;2;6
+589;Marseille;Militaire;2;81/82/2823;48;48;2;8
+618;Marseille Saint-Charles;Militaire;2;22/82/2823;65;65;2;1
+622;Marseille Saint-Charles;Militaire;2;86/83/2823;18;18;2;6
+674;Metz;Militaire;2;89/83/2823;254;254;2;3
+677;Metz;Militaire;1;12/83/2823;36;36;2;12
+781;Montpellier Saint-Roch;Militaire;4;15/82/2823;25;25;2;35
+888;Nice;Militaire;1;82/82/2823;36;36;2;8
+832;Nice;Militaire;1;26/82/2823;25;25;2;9
+835;Nimes;Militaire;2;81/83/2823;185;185;2;8
+862;Paris;Militaire;2;28/83/2823;24;24;2;6
+874;Paris;Militaire;2;18/83/2823;36;36;2;7
+984;Paris Austerlitz;Militaire;1;27/82/2823;358;358;2;12
+917;Paris Austerlitz;Militaire;1;12/83/2823;156;156;2;5
+925;Paris Bercy;Militaire;2;28/83/2823;82;82;2;8
+936;Paris Bercy;Militaire;2;18/82/2823;254;254;2;8
+1818;Paris Gare de Lyon;Militaire;1;16/82/2823;98;98;2;8
+1838;Paris Montparnasse;Militaire;2;28/82/2823;68;68;2;8
+1856;Paris Montparnasse;Militaire;2;85/82/2823;452;452;2;5
+1876;Paris Nord;Militaire;1;25/82/2823;64;64;2;35
+1182;Paris Nord;Militaire;1;23/83/2823;24;24;2;5
+1124;Paris St Lazare;Militaire;1;82/82/2823;24;24;2;7
+82;Perpignan;Militaire;4;82/83/2823;841;841;2;8
+1164;Perpignan;Militaire;4;14/83/2823;64;64;2;3
+1176;Perpignan;Militaire;4;85/82/2823;251;251;2;1
+1186;Poitiers;Militaire;2;15/82/2823;64;64;2;8
+1198;Poitiers;Militaire;2;27/82/2823;251;251;2;8
+1218;Poitiers;Militaire;2;11/83/2823;358;358;2;8
+1267;Reims;Militaire;2;25/82/2823;36;36;2;8
+1277;Reims;Militaire;2;87/83/2823;24;24;2;8
+1284;Rennes;Militaire;1;14/83/2823;541;541;2;2
+1296;Rennes;Militaire;1;85/82/2823;54;54;2;5
+1388;Rennes;Militaire;1;17/82/2823;254;254;2;6
+1328;Rennes;Militaire;1;81/83/2823;23;23;2;8
+1332;Rennes;Militaire;1;13/83/2823;48;48;2;8
+1344;Rennes;Militaire;1;25/83/2823;18;18;2;8
+1368;Roissy;Militaire;2;86/82/2823;543;543;2;3
+1381;Roissy;Militaire;2;19/82/2823;185;185;2;8
+1398;Rouen;Militaire;2;28/82/2823;258;258;2;8
+1442;Rouen Rive Droite;Militaire;2;83/83/2823;36;36;2;1
+1453;Rouen Rive Droite;Militaire;2;14/83/2823;18;18;2;5
+1464;Rouen Rive Droite;Militaire;2;25/83/2823;36;36;2;35
+1638;Toulon;Militaire;2;28/82/2823;98;98;2;8
+1652;Toulon;Militaire;2;81/82/2823;98;98;2;8
+1772;Tours;Militaire;4;81/82/2823;25;25;2;8
+1837;Troyes;Militaire;1;16/83/2823;25;25;2;8
+1861;Troyes;Militaire;1;19/82/2823;288;288;2;12
+1885;Troyes;Militaire;1;15/83/2823;64;64;2;35
+1986;Valence;Militaire;2;15/82/2823;185;185;2;8
+1939;Valence;Militaire;2;28/83/2823;841;841;2;8
+1964;Versailles;Militaire;2;82/82/2823;254;254;2;35
+194;Besancon;Ouvrier, Employer;2;19/83/2823;58;58;2;9
+268;Caen;Ouvrier, Employer;2;15/82/2823;58;58;2;5
+637;Massy;Ouvrier, Employer;2;21/83/2823;288;288;2;8
+658;Massy;Ouvrier, Employer;2;13/82/2823;541;541;2;8
+668;Metz;Ouvrier, Employer;2;83/83/2823;98;98;2;6
+691;Metz;Ouvrier, Employer;2;85/82/2823;258;258;2;6
+798;Nantes;Ouvrier, Employer;4;85/83/2823;288;288;2;8
+898;Paris Austerlitz;Ouvrier, Employer;2;21/82/2823;25;25;2;8
+958;Paris Est;Ouvrier, Employer;2;84/83/2823;254;254;2;8
+984;Paris Est;Ouvrier, Employer;2;38/83/2823;41;41;2;8
+1824;Paris Gare de Lyon;Ouvrier, Employer;2;22/82/2823;254;254;2;8
+1852;Paris Montparnasse;Ouvrier, Employer;2;81/82/2823;85;85;2;12
+1144;Paris St Lazare;Ouvrier, Employer;2;22/82/2823;82;82;2;12
+1498;Strasbourg;Ouvrier, Employer;2;88/82/2823;288;288;2;8
+1514;Strasbourg;Ouvrier, Employer;2;84/83/2823;288;288;2;8
+1538;Strasbourg;Ouvrier, Employer;2;87/82/2823;23;23;2;8
+1562;Strasbourg;Ouvrier, Employer;2;83/83/2823;18;18;2;3
+1586;Strasbourg;Ouvrier, Employer;2;27/83/2823;98;98;2;8
+1618;Strasbourg;Ouvrier, Employer;2;88/82/2823;135;135;2;8
+1988;Valence;Ouvrier, Employer;2;17/82/2823;54;54;2;35
+1938;Valence;Ouvrier, Employer;2;11/83/2823;54;54;2;5
+2;Aix en Provence-TGV;Ouvrier, Employer;1;82/82/2823;68;68;2;8
+13;Aix en Provence-TGV;Ouvrier, Employer;1;13/82/2823;258;258;2;3
+26;Amiens;Ouvrier, Employer;6;26/82/2823;185;185;2;8
+67;Angers;Ouvrier, Employer;4;18/82/2823;25;25;2;8
+72;Angouleme;Ouvrier, Employer;9;23/82/2823;54;54;2;8
+8;Avignon;Ouvrier, Employer;2;17/82/2823;64;64;2;9
+146;Bayonne;Ouvrier, Employer;2;28/83/2823;45;45;2;8
+157;Bayonne;Ouvrier, Employer;2;18/82/2823;185;185;2;6
+181;Belfort ;Ouvrier, Employer;4;86/83/2823;54;54;2;8
+218;Biarritz;Ouvrier, Employer;2;22/82/2823;36;36;2;8
+259;Caen;Ouvrier, Employer;1;14/82/2823;254;254;2;7
+298;Cannes;Ouvrier, Employer;2;17/83/2823;288;288;2;8
+387;Cherbourg;Ouvrier, Employer;2;13/82/2823;25;25;2;8
+332;Colmar;Ouvrier, Employer;2;18/83/2823;185;185;2;3
+397;Hendaye;Ouvrier, Employer;1;85/82/2823;288;288;2;6
+437;Le Mans;Ouvrier, Employer;1;17/83/2823;36;36;2;1
+475;Lens;Ouvrier, Employer;2;86/83/2823;541;541;2;2
+496;Lille Europe;Ouvrier, Employer;2;86/82/2823;841;841;2;5
+565;Lyon;Ouvrier, Employer;2;26/82/2823;254;254;2;5
+576;Lyon;Ouvrier, Employer;2;89/83/2823;82;82;2;35
+581;Marseille;Ouvrier, Employer;4;14/83/2823;98;98;2;8
+619;Marseille Saint-Charles;Ouvrier, Employer;2;83/83/2823;82;82;2;8
+685;Metz;Ouvrier, Employer;2;28/83/2823;82;82;2;8
+692;Metz;Ouvrier, Employer;4;86/82/2823;135;135;2;2
+788;Montpellier Saint-Roch;Ouvrier, Employer;1;22/82/2823;23;23;2;8
+728;Montpellier Saint-Roch;Ouvrier, Employer;1;86/83/2823;48;48;2;3
+739;Mulhouse;Ouvrier, Employer;2;25/83/2823;251;251;2;8
+763;Nancy;Ouvrier, Employer;2;86/82/2823;65;65;2;9
+884;Nice;Ouvrier, Employer;2;19/83/2823;251;251;2;1
+816;Nice;Ouvrier, Employer;2;18/82/2823;82;82;2;6
+828;Nice;Ouvrier, Employer;2;22/82/2823;58;58;2;7
+856;Paris;Ouvrier, Employer;2;22/83/2823;288;288;2;8
+898;Paris Austerlitz;Ouvrier, Employer;2;13/82/2823;841;841;2;8
+978;Paris Est;Ouvrier, Employer;1;16/83/2823;23;23;2;3
+1866;Paris Montparnasse;Ouvrier, Employer;2;15/82/2823;92;92;2;6
+1872;Paris Nord;Ouvrier, Employer;2;21/82/2823;25;25;2;3
+1885;Paris Nord;Ouvrier, Employer;2;86/83/2823;135;135;2;8
+1189;Paris St Lazare;Ouvrier, Employer;2;38/83/2823;541;541;2;8
+87;Perpignan;Ouvrier, Employer;2;87/83/2823;48;48;2;5
+1181;Perpignan;Ouvrier, Employer;2;18/82/2823;41;41;2;8
+1285;Poitiers;Ouvrier, Employer;2;86/83/2823;85;85;2;8
+1237;Reims;Ouvrier, Employer;1;16/83/2823;258;258;2;6
+1288;Rennes;Ouvrier, Employer;1;18/83/2823;48;48;2;8
+1312;Rennes;Ouvrier, Employer;1;21/82/2823;41;41;2;3
+1336;Rennes;Ouvrier, Employer;1;17/83/2823;68;68;2;8
+1356;Roissy;Ouvrier, Employer;2;15/83/2823;41;41;2;8
+1392;Rouen;Ouvrier, Employer;2;82/83/2823;841;841;2;8
+1412;Rouen Rive Droite;Ouvrier, Employer;2;81/82/2823;258;258;2;8
+1445;Rouen Rive Droite;Ouvrier, Employer;2;86/83/2823;68;68;2;8
+1456;Rouen Rive Droite;Ouvrier, Employer;2;17/83/2823;258;258;2;6
+1486;Strasbourg;Ouvrier, Employer;2;84/82/2823;36;36;2;5
+1518;Strasbourg;Ouvrier, Employer;2;28/82/2823;25;25;2;6
+1534;Strasbourg;Ouvrier, Employer;2;83/82/2823;185;185;2;2
+1558;Strasbourg;Ouvrier, Employer;2;27/82/2823;54;54;2;6
+1582;Strasbourg;Ouvrier, Employer;2;23/83/2823;23;23;2;8
+1686;Strasbourg;Ouvrier, Employer;2;84/82/2823;18;18;2;5
+1624;Toulon;Ouvrier, Employer;2;22/82/2823;54;54;2;8
+1668;Toulon;Ouvrier, Employer;2;17/82/2823;452;452;2;35
+1693;Toulouse Matabiau;Ouvrier, Employer;2;14/83/2823;18;18;2;7
+1717;Toulouse Matabiau;Ouvrier, Employer;2;16/83/2823;98;98;2;5
+1741;Toulouse Matabiau;Ouvrier, Employer;2;19/82/2823;135;135;2;8
+1765;Tours;Ouvrier, Employer;2;15/83/2823;541;541;2;8
+1792;Tours;Ouvrier, Employer;2;21/82/2823;36;36;2;12
+1816;Tours;Ouvrier, Employer;2;17/83/2823;25;25;2;35
+1824;Troyes;Ouvrier, Employer;2;25/83/2823;51;51;2;8
+1836;Troyes;Ouvrier, Employer;2;15/83/2823;51;51;2;8
+1848;Troyes;Ouvrier, Employer;2;86/82/2823;98;98;2;8
+1868;Troyes;Ouvrier, Employer;2;18/82/2823;68;68;2;8
+1872;Troyes;Ouvrier, Employer;2;82/83/2823;135;135;2;8
+1884;Troyes;Ouvrier, Employer;2;14/83/2823;185;185;2;12
+1922;Valence;Ouvrier, Employer;2;83/83/2823;48;48;2;8
+1933;Valence;Ouvrier, Employer;2;14/83/2823;24;24;2;6
+1944;Valence;Ouvrier, Employer;2;25/83/2823;48;48;2;5
+1963;Versailles;Ouvrier, Employer;2;81/82/2823;251;251;2;12
+22;Aix en Provence-TGV;Retraite;8;22/82/2823;41;41;2;8
+53;Angers;Retraite;2;84/82/2823;24;24;2;6
+96;Arles;Retraite;2;19/83/2823;23;23;2;8
+163;Belfort ;Retraite;2;16/82/2823;18;18;2;8
+188;Besancon;Retraite;1;13/83/2823;258;258;2;35
+226;Biarritz;Retraite;2;82/83/2823;82;82;2;6
+242;Bordeaux;Retraite;2;18/83/2823;25;25;2;8
+298;Cannes;Retraite;2;84/82/2823;12;12;2;8
+349;Dijon;Retraite;2;86/82/2823;36;36;2;6
+368;Dijon;Retraite;2;17/82/2823;18;18;2;1
+372;Grenoble;Retraite;1;81/83/2823;41;41;2;6
+476;Lens;Retraite;4;87/83/2823;251;251;2;6
+493;Lille Europe;Retraite;2;83/82/2823;98;98;2;8
+589;Lille Flandres;Retraite;1;19/82/2823;54;54;2;7
+547;Lorient;Retraite;2;88/82/2823;41;41;2;8
+562;Lyon;Retraite;1;23/82/2823;841;841;2;8
+628;Marseille Saint-Charles;Retraite;4;84/83/2823;23;23;2;2
+636;Massy;Retraite;1;28/83/2823;68;68;2;8
+661;Metz;Retraite;2;24/82/2823;64;64;2;9
+684;Metz;Retraite;2;19/83/2823;54;54;2;9
+698;Metz;Retraite;2;12/82/2823;48;48;2;8
+725;Mulhouse;Retraite;1;11/83/2823;288;288;2;1
+736;Mulhouse;Retraite;1;22/83/2823;135;135;2;8
+778;Nantes;Retraite;2;13/82/2823;64;64;2;6
+797;Nice;Retraite;2;12/83/2823;18;18;2;5
+821;Nice;Retraite;2;15/82/2823;98;98;2;8
+838;Nimes;Retraite;2;84/83/2823;82;82;2;5
+888;Paris Austerlitz;Retraite;2;11/82/2823;258;258;2;8
+981;Paris Austerlitz;Retraite;2;24/82/2823;584;584;2;3
+914;Paris Austerlitz;Retraite;2;89/83/2823;1562;1562;2;8
+931;Paris Bercy;Retraite;2;85/82/2823;258;258;2;5
+952;Paris Est;Retraite;2;26/82/2823;98;98;2;1
+965;Paris Est;Retraite;2;11/83/2823;288;288;2;2
+996;Paris Gare de Lyon;Retraite;2;15/83/2823;98;98;2;12
+1844;Paris Montparnasse;Retraite;2;14/83/2823;541;541;2;2
+1896;Paris Nord;Retraite;2;17/83/2823;288;288;2;8
+1128;Paris St Lazare;Retraite;2;19/83/2823;64;64;2;8
+1133;Paris St Lazare;Retraite;2;11/82/2823;254;254;2;2
+1147;Perpignan;Retraite;2;25/82/2823;18;18;2;7
+1171;Perpignan;Retraite;2;21/83/2823;98;98;2;5
+1189;Poitiers;Retraite;2;18/82/2823;23;23;2;2
+1213;Poitiers;Retraite;2;14/83/2823;12;12;2;5
+1285;Rennes;Retraite;2;15/83/2823;251;251;2;6
+1389;Rennes;Retraite;2;18/82/2823;58;58;2;1
+1333;Rennes;Retraite;2;14/83/2823;36;36;2;8
+1366;Roissy;Retraite;4;84/82/2823;12;12;2;8
+1411;Rouen Rive Droite;Retraite;2;21/83/2823;98;98;2;8
+1466;Rouen Rive Droite;Retraite;2;27/83/2823;25;25;2;7
+1483;Strasbourg;Retraite;1;81/82/2823;254;254;2;8
+1587;Strasbourg;Retraite;1;25/82/2823;48;48;2;8
+1531;Strasbourg;Retraite;1;21/83/2823;25;25;2;2
+1555;Strasbourg;Retraite;1;24/82/2823;288;288;2;5
+1579;Strasbourg;Retraite;1;28/83/2823;64;64;2;6
+1683;Strasbourg;Retraite;1;81/82/2823;82;82;2;2
+1644;Toulon;Retraite;2;14/83/2823;185;185;2;12
+1666;Toulon;Retraite;2;15/82/2823;584;584;2;8
+1698;Toulouse Matabiau;Retraite;2;11/83/2823;82;82;2;12
+1782;Toulouse Matabiau;Retraite;2;23/83/2823;58;58;2;2
+1714;Toulouse Matabiau;Retraite;2;13/83/2823;24;24;2;35
+1726;Toulouse Matabiau;Retraite;2;84/82/2823;36;36;2;5
+1738;Toulouse Matabiau;Retraite;2;16/82/2823;25;25;2;1
+1758;Toulouse Matabiau;Retraite;2;28/82/2823;25;25;2;6
+1762;Tours;Retraite;2;12/83/2823;258;258;2;7
+1774;Tours;Retraite;2;83/82/2823;288;288;2;8
+1786;Tours;Retraite;2;15/82/2823;841;841;2;8
+1789;Tours;Retraite;2;18/82/2823;254;254;2;3
+1813;Tours;Retraite;2;14/83/2823;48;48;2;8
+1822;Troyes;Retraite;2;23/83/2823;358;358;2;9
+1834;Troyes;Retraite;2;13/83/2823;65;65;2;8
+1846;Troyes;Retraite;2;84/82/2823;18;18;2;8
+1858;Troyes;Retraite;2;16/82/2823;41;41;2;3
+1878;Troyes;Retraite;2;28/82/2823;98;98;2;8
+1882;Troyes;Retraite;2;12/83/2823;68;68;2;8
+1932;Valence;Retraite;1;13/83/2823;23;23;2;2
+1954;Valence;Retraite;1;13/83/2823;23;23;2;6
+1978;Versailles;Retraite;2;88/82/2823;85;85;2;9
+34;Amiens;Sans emploi;8;86/83/2823;98;98;2;8
+46;Amiens;Sans emploi;8;18/83/2823;68;68;2;9
+77;Angouleme;Sans emploi;5;28/82/2823;25;25;2;2
+88;Angouleme;Sans emploi;5;11/83/2823;41;41;2;7
+188;Arles;Sans emploi;2;18/82/2823;48;48;2;12
+132;Avignon;Sans emploi;2;86/83/2823;41;41;2;35
+148;Bayonne;Sans emploi;1;14/83/2823;52;52;2;1
+173;Belfort ;Sans emploi;2;26/82/2823;48;48;2;8
+192;Besancon;Sans emploi;2;17/83/2823;251;251;2;8
+284;Besancon;Sans emploi;2;88/82/2823;82;82;2;1
+214;Biarritz;Sans emploi;1;18/82/2823;251;251;2;5
+245;Bordeaux;Sans emploi;2;21/83/2823;185;185;2;2
+284;Cannes;Sans emploi;2;11/83/2823;36;36;2;8
+314;Cherbourg;Sans emploi;2;28/82/2823;23;23;2;1
+379;Grenoble;Sans emploi;2;88/83/2823;82;82;2;8
+418;Laval;Sans emploi;2;26/82/2823;68;68;2;6
+438;Laval;Sans emploi;2;18/83/2823;135;135;2;7
+458;Le Mans;Sans emploi;1;17/82/2823;156;156;2;8
+468;Lens;Sans emploi;2;27/82/2823;24;24;2;8
+488;Lens;Sans emploi;2;11/83/2823;36;36;2;3
+528;Lille Flandres;Sans emploi;2;82/83/2823;251;251;2;6
+554;Lorient;Sans emploi;2;15/82/2823;82;82;2;1
+574;Lyon;Sans emploi;2;87/83/2823;64;64;2;8
+682;Marseille;Sans emploi;4;14/82/2823;528;528;2;8
+648;Massy;Sans emploi;2;11/82/2823;135;135;2;1
+668;Metz;Sans emploi;4;23/82/2823;185;185;2;8
+754;Nancy;Sans emploi;2;18/83/2823;12;12;2;8
+764;Nancy;Sans emploi;2;87/82/2823;156;156;2;8
+766;Nantes;Sans emploi;1;89/82/2823;25;25;2;8
+812;Nice;Sans emploi;2;86/82/2823;288;288;2;8
+842;Nimes;Sans emploi;1;88/83/2823;25;25;2;8
+853;Nimes;Sans emploi;1;19/83/2823;41;41;2;8
+866;Paris;Sans emploi;2;18/83/2823;258;258;2;5
+934;Paris Bercy;Sans emploi;2;88/82/2823;541;541;2;9
+1828;Paris Gare de Lyon;Sans emploi;2;26/82/2823;41;41;2;1
+1832;Paris Montparnasse;Sans emploi;1;82/83/2823;185;185;2;8
+1845;Paris Montparnasse;Sans emploi;1;15/83/2823;251;251;2;6
+1858;Paris Montparnasse;Sans emploi;1;87/82/2823;52;52;2;8
+1878;Paris Nord;Sans emploi;2;27/82/2823;82;82;2;7
+1184;Paris Nord;Sans emploi;2;25/83/2823;25;25;2;8
+1117;Paris St Lazare;Sans emploi;4;16/83/2823;68;68;2;8
+1138;Paris St Lazare;Sans emploi;4;88/82/2823;841;841;2;8
+84;Perpignan;Sans emploi;2;84/83/2823;251;251;2;8
+1178;Perpignan;Sans emploi;2;87/82/2823;58;58;2;8
+1228;Reims;Sans emploi;2;21/83/2823;1562;1562;2;3
+1264;Reims;Sans emploi;2;22/82/2823;254;254;2;8
+1274;Reims;Sans emploi;2;84/83/2823;54;54;2;8
+1357;Roissy;Sans emploi;3;16/83/2823;25;25;2;8
+1378;Roissy;Sans emploi;3;88/82/2823;45;45;2;8
+1387;Rouen;Sans emploi;2;25/82/2823;18;18;2;6
+1414;Rouen Rive Droite;Sans emploi;1;83/82/2823;841;841;2;3
+1436;Rouen Rive Droite;Sans emploi;1;25/82/2823;841;841;2;8
+1469;Rouen Rive Droite;Sans emploi;1;38/83/2823;185;185;2;8
+1474;Strasbourg;Sans emploi;1;13/83/2823;24;24;2;8
+1498;Strasbourg;Sans emploi;1;16/82/2823;25;25;2;1
+1522;Strasbourg;Sans emploi;1;12/83/2823;12;12;2;7
+1546;Strasbourg;Sans emploi;1;15/82/2823;541;541;2;5
+1578;Strasbourg;Sans emploi;1;11/83/2823;254;254;2;8
+1594;Strasbourg;Sans emploi;1;13/83/2823;48;48;2;8
+1627;Toulon;Sans emploi;1;25/82/2823;24;24;2;8
+1682;Toulouse Matabiau;Sans emploi;4;83/83/2823;156;156;2;2
+1786;Toulouse Matabiau;Sans emploi;4;27/83/2823;25;25;2;6
+1738;Toulouse Matabiau;Sans emploi;4;88/82/2823;288;288;2;8
+1757;Tours;Sans emploi;2;87/83/2823;23;23;2;8
+1781;Tours;Sans emploi;2;18/82/2823;18;18;2;2
+1796;Tours;Sans emploi;2;25/82/2823;288;288;2;5
+1828;Tours;Sans emploi;2;21/83/2823;288;288;2;8
+1829;Troyes;Sans emploi;2;38/83/2823;45;45;2;6
+1853;Troyes;Sans emploi;2;11/82/2823;251;251;2;2
+1877;Troyes;Sans emploi;2;87/83/2823;58;58;2;6
+1896;Valence;Sans emploi;4;85/82/2823;541;541;2;2
+1918;Valence;Sans emploi;4;27/82/2823;541;541;2;8
+1948;Valence;Sans emploi;4;21/83/2823;541;541;2;12
+18;Aix en Provence-TGV;Edutiant;4;18/82/2823;18;18;2;8
+24;Amiens;Edutiant;5;24/82/2823;68;68;2;8
+36;Amiens;Edutiant;5;88/83/2823;135;135;2;3
+68;Angers;Edutiant;5;19/82/2823;68;68;2;8
+74;Angouleme;Edutiant;2;25/82/2823;23;23;2;2
+85;Angouleme;Edutiant;2;88/83/2823;58;58;2;12
+94;Arles;Edutiant;6;17/83/2823;54;54;2;8
+116;Avignon;Edutiant;2;18/82/2823;54;54;2;8
+144;Bayonne;Edutiant;1;18/83/2823;543;543;2;8
+166;Belfort ;Edutiant;3;19/82/2823;258;258;2;1
+178;Belfort ;Edutiant;3;83/83/2823;288;288;2;6
+197;Besancon;Edutiant;2;81/82/2823;41;41;2;8
+228;Biarritz;Edutiant;2;84/83/2823;24;24;2;8
+238;Bordeaux;Edutiant;1;14/83/2823;58;58;2;8
+258;Bordeaux;Edutiant;1;85/82/2823;24;24;2;8
+276;Caen;Edutiant;2;83/83/2823;258;258;2;3
+288;Cannes;Edutiant;2;87/83/2823;251;251;2;35
+336;Colmar;Edutiant;1;14/83/2823;23;23;2;35
+348;Colmar;Edutiant;1;85/82/2823;48;48;2;5
+362;Dijon;Edutiant;2;19/82/2823;98;98;2;5
+389;Grenoble;Edutiant;2;18/83/2823;251;251;2;8
+396;Hendaye;Edutiant;2;84/82/2823;68;68;2;2
+486;Hendaye;Edutiant;2;14/82/2823;98;98;2;1
+413;Laval;Edutiant;4;21/82/2823;58;58;2;8
+442;Le Mans;Edutiant;2;81/82/2823;584;584;2;8
+454;Le Mans;Edutiant;2;13/82/2823;92;92;2;8
+548;Lorient;Edutiant;4;89/82/2823;25;25;2;8
+564;Lyon;Edutiant;4;25/82/2823;251;251;2;2
+595;Marseille;Edutiant;2;87/82/2823;584;584;2;8
+688;Metz;Edutiant;2;82/82/2823;18;18;2;8
+722;Montpellier Saint-Roch;Edutiant;4;88/83/2823;41;41;2;8
+738;Mulhouse;Edutiant;2;16/83/2823;23;23;2;52
+768;Nancy;Edutiant;2;83/82/2823;92;92;2;5
+784;Nantes;Edutiant;1;27/82/2823;58;58;2;8
+988;Paris Austerlitz;Edutiant;1;83/83/2823;528;528;2;5
+928;Paris Bercy;Edutiant;4;82/82/2823;18;18;2;35
+988;Paris Est;Edutiant;2;26/83/2823;254;254;2;9
+1827;Paris Gare de Lyon;Edutiant;1;25/82/2823;36;36;2;68
+1854;Paris Montparnasse;Edutiant;1;83/82/2823;584;584;2;1
+1188;Paris Nord;Edutiant;2;21/83/2823;82;82;2;1
+1196;Poitiers;Edutiant;2;25/82/2823;841;841;2;8
+1229;Reims;Edutiant;2;38/83/2823;64;64;2;8
+1261;Reims;Edutiant;2;19/82/2823;841;841;2;2
+1298;Rennes;Edutiant;2;87/82/2823;23;23;2;8
+1322;Rennes;Edutiant;2;83/83/2823;18;18;2;52
+1346;Rennes;Edutiant;2;27/83/2823;98;98;2;8
+1378;Roissy;Edutiant;3;16/82/2823;25;25;2;9
+1482;Rouen;Edutiant;4;12/83/2823;288;288;2;8
+1421;Rouen Rive Droite;Edutiant;1;18/82/2823;41;41;2;5
+1432;Rouen Rive Droite;Edutiant;1;21/82/2823;25;25;2;2
+1628;Toulon;Edutiant;2;26/82/2823;18;18;2;8
+1661;Toulon;Edutiant;2;18/82/2823;36;36;2;8
+1672;Toulon;Edutiant;2;21/82/2823;12;12;2;8
+1768;Tours;Edutiant;2;18/83/2823;58;58;2;1
+1795;Tours;Edutiant;2;24/82/2823;68;68;2;7
+1819;Tours;Edutiant;2;28/83/2823;584;584;2;5
+1826;Troyes;Edutiant;2;27/83/2823;528;528;2;8
+1858;Troyes;Edutiant;2;88/82/2823;135;135;2;2
+1874;Troyes;Edutiant;2;84/83/2823;541;541;2;5
+1981;Versailles;Edutiant;2;19/82/2823;12;12;2;5
+1988;Versailles;Edutiant;2;19/82/2823;12;12;2;5
+1995;Versailles;Edutiant;2;19/82/2823;12;12;2;5
+48;Angers;Technicien, Agent de maitrise;8;28/83/2823;185;185;2;8
+68;Angers;Technicien, Agent de maitrise;8;11/82/2823;541;541;2;8
+181;Arles;Technicien, Agent de maitrise;2;83/82/2823;258;258;2;6
+112;Arles;Technicien, Agent de maitrise;2;14/82/2823;68;68;2;5
+184;Besancon;Technicien, Agent de maitrise;1;89/83/2823;24;24;2;3
+248;Bordeaux;Technicien, Agent de maitrise;4;16/83/2823;36;36;2;9
+252;Bordeaux;Technicien, Agent de maitrise;4;87/82/2823;25;25;2;8
+253;Caen;Technicien, Agent de maitrise;2;88/82/2823;98;98;2;3
+266;Caen;Technicien, Agent de maitrise;2;21/82/2823;288;288;2;8
+288;Cannes;Technicien, Agent de maitrise;2;15/83/2823;49;49;2;1
+317;Cherbourg;Technicien, Agent de maitrise;2;23/82/2823;25;25;2;8
+328;Colmar;Technicien, Agent de maitrise;2;86/83/2823;41;41;2;6
+358;Dijon;Technicien, Agent de maitrise;2;15/82/2823;23;23;2;12
+376;Grenoble;Technicien, Agent de maitrise;2;85/83/2823;185;185;2;8
+451;Le Mans;Technicien, Agent de maitrise;2;18/82/2823;12;12;2;6
+588;Lille Europe;Technicien, Agent de maitrise;1;18/82/2823;58;58;2;1
+524;Lille Flandres;Technicien, Agent de maitrise;2;86/83/2823;36;36;2;8
+544;Lorient;Technicien, Agent de maitrise;2;85/82/2823;58;58;2;2
+586;Marseille;Technicien, Agent de maitrise;2;19/83/2823;251;251;2;8
+598;Marseille;Technicien, Agent de maitrise;2;18/82/2823;358;358;2;5
+616;Marseille Saint-Charles;Technicien, Agent de maitrise;2;28/82/2823;185;185;2;8
+643;Massy;Technicien, Agent de maitrise;2;86/82/2823;24;24;2;2
+653;Metz;Technicien, Agent de maitrise;2;16/82/2823;58;58;2;8
+716;Montpellier Saint-Roch;Technicien, Agent de maitrise;1;82/83/2823;541;541;2;6
+732;Mulhouse;Technicien, Agent de maitrise;2;18/83/2823;18;18;2;1
+757;Nancy;Technicien, Agent de maitrise;1;21/83/2823;12;12;2;35
+787;Nantes;Technicien, Agent de maitrise;2;82/83/2823;41;41;2;8
+848;Nimes;Technicien, Agent de maitrise;2;86/83/2823;24;24;2;2
+877;Paris;Technicien, Agent de maitrise;2;21/83/2823;68;68;2;8
+888;Paris Austerlitz;Technicien, Agent de maitrise;2;83/82/2823;64;64;2;1
+893;Paris Austerlitz;Technicien, Agent de maitrise;2;16/82/2823;254;254;2;2
+941;Paris Bercy;Technicien, Agent de maitrise;4;15/82/2823;25;25;2;6
+972;Paris Est;Technicien, Agent de maitrise;4;18/83/2823;18;18;2;8
+994;Paris Gare de Lyon;Technicien, Agent de maitrise;4;13/83/2823;18;18;2;8
+1828;Paris Gare de Lyon;Technicien, Agent de maitrise;4;18/82/2823;135;135;2;35
+1892;Paris Nord;Technicien, Agent de maitrise;2;13/83/2823;36;36;2;1
+1123;Paris St Lazare;Technicien, Agent de maitrise;2;81/82/2823;23;23;2;1
+1243;Reims;Technicien, Agent de maitrise;1;81/82/2823;58;58;2;3
+1253;Reims;Technicien, Agent de maitrise;1;11/82/2823;82;82;2;9
+1294;Rennes;Technicien, Agent de maitrise;2;83/82/2823;185;185;2;1
+1386;Rennes;Technicien, Agent de maitrise;2;15/82/2823;541;541;2;6
+1318;Rennes;Technicien, Agent de maitrise;2;27/82/2823;54;54;2;7
+1338;Rennes;Technicien, Agent de maitrise;2;11/83/2823;254;254;2;8
+1342;Rennes;Technicien, Agent de maitrise;2;23/83/2823;23;23;2;8
+1354;Rennes;Technicien, Agent de maitrise;2;13/83/2823;48;48;2;8
+1364;Roissy;Technicien, Agent de maitrise;2;82/82/2823;52;52;2;6
+1397;Rouen;Technicien, Agent de maitrise;2;87/83/2823;48;48;2;7
+1485;Rouen Rive Droite;Technicien, Agent de maitrise;1;15/83/2823;54;54;2;8
+1416;Rouen Rive Droite;Technicien, Agent de maitrise;1;85/82/2823;251;251;2;8
+1438;Rouen Rive Droite;Technicien, Agent de maitrise;1;27/82/2823;251;251;2;8
+1468;Rouen Rive Droite;Technicien, Agent de maitrise;1;21/83/2823;251;251;2;3
+1484;Strasbourg;Technicien, Agent de maitrise;2;82/82/2823;58;58;2;8
+1488;Strasbourg;Technicien, Agent de maitrise;2;86/82/2823;25;25;2;2
+452;Strasbourg;Technicien, Agent de maitrise;2;26/82/2823;36;36;2;2
+1512;Strasbourg;Technicien, Agent de maitrise;2;82/83/2823;49;49;2;6
+1532;Strasbourg;Technicien, Agent de maitrise;2;81/82/2823;68;68;2;5
+1536;Strasbourg;Technicien, Agent de maitrise;2;85/82/2823;54;54;2;1
+1556;Strasbourg;Technicien, Agent de maitrise;2;25/82/2823;185;185;2;6
+1568;Strasbourg;Technicien, Agent de maitrise;2;81/83/2823;23;23;2;8
+452;Strasbourg;Technicien, Agent de maitrise;2;21/83/2823;54;54;2;2
+1584;Strasbourg;Technicien, Agent de maitrise;2;25/83/2823;18;18;2;8
+1684;Strasbourg;Technicien, Agent de maitrise;2;82/82/2823;23;23;2;6
+1688;Strasbourg;Technicien, Agent de maitrise;2;86/82/2823;98;98;2;3
+1658;Toulon;Technicien, Agent de maitrise;2;87/82/2823;254;254;2;6
+1669;Toulon;Technicien, Agent de maitrise;2;18/82/2823;358;358;2;1
+1685;Toulouse Matabiau;Technicien, Agent de maitrise;1;86/83/2823;68;68;2;5
+1789;Toulouse Matabiau;Technicien, Agent de maitrise;1;38/83/2823;185;185;2;8
+1733;Toulouse Matabiau;Technicien, Agent de maitrise;1;11/82/2823;54;54;2;3
+1882;Tours;Technicien, Agent de maitrise;1;83/83/2823;24;24;2;8
+1925;Valence;Technicien, Agent de maitrise;1;86/83/2823;25;25;2;8
+1936;Valence;Technicien, Agent de maitrise;1;17/83/2823;98;98;2;8
+1973;Versailles;Technicien, Agent de maitrise;2;11/82/2823;288;288;2;8
+28;Amiens;Agriculteur, Exploitant agricole;6;28/82/2823;54;54;4;2
+179;Belfort ;Agriculteur, Exploitant agricole;3;84/83/2823;185;185;4;2
+412;Hendaye;Agriculteur, Exploitant agricole;2;28/82/2823;254;254;4;8
+423;Laval;Agriculteur, Exploitant agricole;2;83/83/2823;82;82;4;8
+468;Le Mans;Agriculteur, Exploitant agricole;2;19/82/2823;25;25;4;12
+567;Lyon;Agriculteur, Exploitant agricole;1;28/82/2823;48;48;4;2
+615;Marseille Saint-Charles;Agriculteur, Exploitant agricole;2;27/82/2823;288;288;4;9
+975;Paris Est;Agriculteur, Exploitant agricole;1;21/83/2823;258;258;4;1
+988;Paris Est;Agriculteur, Exploitant agricole;1;2812;185;185;4;2
+1284;Poitiers;Agriculteur, Exploitant agricole;1;85/83/2823;25;25;4;5
+1623;Toulon;Agriculteur, Exploitant agricole;2;21/82/2823;64;64;4;23
+1667;Toulon;Agriculteur, Exploitant agricole;2;16/82/2823;288;288;4;12
+1972;Versailles;Agriculteur, Exploitant agricole;2;18/82/2823;584;584;4;8
+59;Angers;Artisan, Commercant, Chef d'entreprise TPE;9;18/82/2823;841;841;4;3
+244;Bordeaux;Artisan, Commercant, Chef d'entreprise TPE;2;28/83/2823;288;288;4;8
+323;Cherbourg;Artisan, Commercant, Chef d'entreprise TPE;2;81/83/2823;251;251;4;8
+539;Lorient;Artisan, Commercant, Chef d'entreprise TPE;1;21/83/2823;135;135;4;8
+591;Marseille;Artisan, Commercant, Chef d'entreprise TPE;1;83/82/2823;41;41;4;8
+687;Metz;Artisan, Commercant, Chef d'entreprise TPE;2;81/82/2823;24;24;4;8
+879;Paris Austerlitz;Artisan, Commercant, Chef d'entreprise TPE;2;82/82/2823;185;185;4;68
+892;Paris Austerlitz;Artisan, Commercant, Chef d'entreprise TPE;2;15/82/2823;251;251;4;8
+927;Paris Bercy;Artisan, Commercant, Chef d'entreprise TPE;2;81/82/2823;24;24;4;12
+1847;Paris Montparnasse;Artisan, Commercant, Chef d'entreprise TPE;2;17/83/2823;58;58;4;8
+1868;Paris Montparnasse;Artisan, Commercant, Chef d'entreprise TPE;2;89/82/2823;12;12;4;8
+1187;Poitiers;Artisan, Commercant, Chef d'entreprise TPE;2;16/82/2823;54;54;4;8
+1211;Poitiers;Artisan, Commercant, Chef d'entreprise TPE;2;12/83/2823;52;52;4;8
+1228;Reims;Artisan, Commercant, Chef d'entreprise TPE;2;29/83/2823;185;185;4;8
+1828;Troyes;Artisan, Commercant, Chef d'entreprise TPE;2;29/83/2823;12;12;4;5
+1852;Troyes;Artisan, Commercant, Chef d'entreprise TPE;2;18/82/2823;541;541;4;6
+1876;Troyes;Artisan, Commercant, Chef d'entreprise TPE;2;86/83/2823;254;254;4;2
+231;Bordeaux;Autre;4;87/83/2823;98;98;4;8
+292;Cannes;Autre;1;19/83/2823;358;358;4;8
+447;Le Mans;Autre;2;86/82/2823;51;51;4;8
+484;Lens;Autre;2;15/83/2823;288;288;4;35
+495;Lille Europe;Autre;2;85/82/2823;135;135;4;2
+663;Metz;Autre;1;26/82/2823;82;82;4;8
+899;Paris Austerlitz;Autre;2;22/82/2823;85;85;4;8
+995;Paris Gare de Lyon;Autre;2;14/83/2823;25;25;4;8
+1188;Paris St Lazare;Autre;4;29/83/2823;841;841;4;8
+1475;Strasbourg;Autre;2;14/83/2823;18;18;4;23
+1499;Strasbourg;Autre;2;17/82/2823;98;98;4;7
+1135;Strasbourg;Autre;2;13/83/2823;45;45;4;5
+1547;Strasbourg;Autre;2;16/82/2823;251;251;4;8
+1571;Strasbourg;Autre;2;12/83/2823;58;58;4;8
+1595;Strasbourg;Autre;2;14/83/2823;36;36;4;9
+131;Avignon;Cadre, Chef d'entreprise ;2;85/83/2823;36;36;4;12
+159;Belfort ;Cadre, Chef d'entreprise ;2;12/82/2823;54;54;4;8
+228;Biarritz;Cadre, Chef d'entreprise ;1;24/82/2823;25;25;4;8
+759;Nancy;Cadre, Chef d'entreprise ;4;82/82/2823;86;86;4;7
+887;Nice;Cadre, Chef d'entreprise ;2;81/82/2823;48;48;4;8
+831;Nice;Cadre, Chef d'entreprise ;2;25/82/2823;41;41;4;8
+1823;Paris Gare de Lyon;Cadre, Chef d'entreprise ;1;21/82/2823;251;251;4;5
+1836;Paris Montparnasse;Cadre, Chef d'entreprise ;1;86/83/2823;23;23;4;8
+1895;Paris Nord;Cadre, Chef d'entreprise ;2;16/83/2823;68;68;4;3
+1139;Paris St Lazare;Cadre, Chef d'entreprise ;2;17/82/2823;68;68;4;8
+1163;Perpignan;Cadre, Chef d'entreprise ;2;13/83/2823;185;185;4;8
+1276;Reims;Cadre, Chef d'entreprise ;2;86/83/2823;23;23;4;9
+1383;Rouen;Cadre, Chef d'entreprise ;2;21/82/2823;54;54;4;2
+1468;Rouen Rive Droite;Cadre, Chef d'entreprise ;2;29/83/2823;288;288;4;8
+1791;Tours;Cadre, Chef d'entreprise ;2;28/82/2823;48;48;4;8
+1815;Tours;Cadre, Chef d'entreprise ;2;16/83/2823;41;41;4;12
+1839;Troyes;Cadre, Chef d'entreprise ;4;18/83/2823;288;288;4;35
+1863;Troyes;Cadre, Chef d'entreprise ;4;21/82/2823;64;64;4;1
+1887;Troyes;Cadre, Chef d'entreprise ;4;17/83/2823;82;82;4;7
+1931;Valence;Cadre, Chef d'entreprise ;2;12/83/2823;82;82;4;6
+4;Aix en Provence-TGV;Enseignant, Professeur;2;84/82/2823;185;185;4;8
+15;Aix en Provence-TGV;Enseignant, Professeur;2;15/82/2823;841;841;4;8
+183;Besancon;Enseignant, Professeur;2;88/83/2823;23;23;4;8
+227;Biarritz;Enseignant, Professeur;2;83/83/2823;23;23;4;8
+275;Caen;Enseignant, Professeur;2;82/83/2823;98;98;4;8
+375;Grenoble;Enseignant, Professeur;2;84/83/2823;288;288;4;8
+467;Lens;Enseignant, Professeur;1;26/82/2823;23;23;4;9
+519;Lille Flandres;Enseignant, Professeur;2;81/83/2823;541;541;4;5
+588;Marseille;Enseignant, Professeur;2;13/83/2823;25;25;4;8
+659;Metz;Enseignant, Professeur;2;22/82/2823;288;288;4;8
+788;Montpellier Saint-Roch;Enseignant, Professeur;2;14/82/2823;41;41;4;12
+731;Mulhouse;Enseignant, Professeur;4;17/83/2823;24;24;4;68
+748;Nancy;Enseignant, Professeur;2;12/83/2823;584;584;4;2
+18;Paris St Lazare;Enseignant, Professeur;1;14/83/2823;41;41;4;8
+1287;Rennes;Enseignant, Professeur;2;17/83/2823;58;58;4;8
+1311;Rennes;Enseignant, Professeur;2;28/82/2823;36;36;4;8
+1335;Rennes;Enseignant, Professeur;2;16/83/2823;25;25;4;8
+1643;Toulon;Enseignant, Professeur;1;13/83/2823;288;288;4;8
+1695;Toulouse Matabiau;Enseignant, Professeur;2;16/83/2823;98;98;4;8
+1719;Toulouse Matabiau;Enseignant, Professeur;2;18/83/2823;135;135;4;8
+1743;Toulouse Matabiau;Enseignant, Professeur;2;21/82/2823;541;541;4;9
+1767;Tours;Enseignant, Professeur;2;17/83/2823;254;254;4;68
+1924;Valence;Enseignant, Professeur;2;85/83/2823;41;41;4;8
+1935;Valence;Enseignant, Professeur;2;16/83/2823;25;25;4;8
+52;Angers;Etudiant;1;83/82/2823;23;23;4;5
+172;Belfort ;Etudiant;2;25/82/2823;58;58;4;8
+255;Caen;Etudiant;1;18/82/2823;135;135;4;8
+268;Caen;Etudiant;1;23/82/2823;64;64;4;2
+327;Colmar;Etudiant;1;85/83/2823;36;36;4;2
+364;Dijon;Etudiant;2;21/82/2823;135;135;4;8
+371;Grenoble;Etudiant;2;28/82/2823;36;36;4;5
+543;Lorient;Etudiant;1;84/82/2823;254;254;4;6
+724;Mulhouse;Etudiant;2;18/83/2823;68;68;4;35
+735;Mulhouse;Etudiant;2;21/83/2823;258;258;4;23
+948;Paris Bercy;Etudiant;2;14/82/2823;41;41;4;5
+1819;Paris Gare de Lyon;Etudiant;2;17/82/2823;258;258;4;12
+86;Perpignan;Etudiant;2;86/83/2823;58;58;4;2
+1188;Perpignan;Etudiant;2;89/82/2823;36;36;4;8
+1263;Reims;Etudiant;2;21/82/2823;251;251;4;8
+1487;Rouen Rive Droite;Etudiant;4;17/83/2823;23;23;4;5
+1451;Rouen Rive Droite;Etudiant;4;12/83/2823;23;23;4;8
+1684;Toulouse Matabiau;Etudiant;2;85/83/2823;25;25;4;1
+1788;Toulouse Matabiau;Etudiant;2;29/83/2823;288;288;4;8
+1732;Toulouse Matabiau;Etudiant;2;18/82/2823;64;64;4;8
+1948;Valence;Etudiant;2;29/83/2823;68;68;4;8
+1959;Valence;Etudiant;2;18/83/2823;258;258;4;8
+1983;Versailles;Etudiant;8;21/82/2823;86;86;4;3
+1998;Versailles;Etudiant;8;21/82/2823;86;86;4;3
+35;Amiens;Militaire;5;87/83/2823;258;258;4;8
+63;Angers;Militaire;9;14/82/2823;58;58;4;35
+316;Cherbourg;Militaire;2;22/82/2823;18;18;4;5
+388;Grenoble;Militaire;1;17/83/2823;541;541;4;9
+436;Laval;Militaire;2;16/83/2823;48;48;4;1
+628;Massy;Militaire;2;12/83/2823;541;541;4;3
+755;Nancy;Militaire;2;19/83/2823;528;528;4;8
+772;Nantes;Militaire;2;15/82/2823;82;82;4;6
+828;Nice;Militaire;1;14/82/2823;25;25;4;8
+947;Paris Bercy;Militaire;2;21/82/2823;82;82;4;3
+951;Paris Est;Militaire;2;25/82/2823;25;25;4;35
+964;Paris Est;Militaire;2;18/83/2823;68;68;4;6
+1843;Paris Montparnasse;Militaire;2;13/83/2823;841;841;4;6
+1235;Reims;Militaire;2;14/83/2823;25;25;4;2
+1428;Rouen Rive Droite;Militaire;2;89/82/2823;36;36;4;7
+1431;Rouen Rive Droite;Militaire;2;28/82/2823;18;18;4;6
+1619;Toulon;Militaire;2;17/82/2823;25;25;4;68
+1691;Toulouse Matabiau;Militaire;4;12/83/2823;23;23;4;35
+1715;Toulouse Matabiau;Militaire;4;14/83/2823;18;18;4;1
+1739;Toulouse Matabiau;Militaire;4;17/82/2823;98;98;4;7
+1811;Tours;Militaire;4;12/83/2823;254;254;4;8
+787;Montpellier Saint-Roch;Ouvrier, Employer;2;21/82/2823;82;82;4;9
+796;Nantes;Ouvrier, Employer;4;11/83/2823;24;24;4;1
+971;Paris Est;Ouvrier, Employer;2;17/83/2823;24;24;4;8
+1871;Paris Nord;Ouvrier, Employer;1;28/82/2823;51;51;4;8
+1884;Paris Nord;Ouvrier, Employer;1;85/83/2823;258;258;4;8
+1359;Roissy;Ouvrier, Employer;5;18/83/2823;49;49;4;8
+1372;Roissy;Ouvrier, Employer;5;18/82/2823;92;92;4;35
+1979;Versailles;Ouvrier, Employer;2;17/82/2823;528;528;4;6
+1986;Versailles;Ouvrier, Employer;2;17/82/2823;528;528;4;6
+1993;Versailles;Ouvrier, Employer;2;17/82/2823;528;528;4;6
+83;Angouleme;Ouvrier, Employer;9;86/83/2823;251;251;4;8
+188;Arles;Ouvrier, Employer;2;82/82/2823;98;98;4;2
+111;Arles;Ouvrier, Employer;2;13/82/2823;25;25;4;7
+283;Besancon;Ouvrier, Employer;2;87/82/2823;54;54;4;6
+287;Biarritz;Ouvrier, Employer;2;11/82/2823;18;18;4;3
+251;Bordeaux;Ouvrier, Employer;2;86/82/2823;18;18;4;8
+279;Cannes;Ouvrier, Employer;2;86/83/2823;541;541;4;12
+588;Lille Europe;Ouvrier, Employer;2;18/82/2823;64;64;4;1
+639;Massy;Ouvrier, Employer;2;82/82/2823;64;64;4;8
+652;Massy;Ouvrier, Employer;2;15/82/2823;254;254;4;8
+844;Nimes;Ouvrier, Employer;1;18/83/2823;258;258;4;8
+868;Paris;Ouvrier, Employer;2;12/83/2823;841;841;4;3
+983;Paris Austerlitz;Ouvrier, Employer;2;26/82/2823;452;452;4;8
+916;Paris Austerlitz;Ouvrier, Employer;2;11/83/2823;65;65;4;2
+999;Paris Gare de Lyon;Ouvrier, Employer;2;18/83/2823;841;841;4;7
+1812;Paris Gare de Lyon;Ouvrier, Employer;2;18/82/2823;54;54;4;6
+1388;Rennes;Ouvrier, Employer;1;89/82/2823;18;18;4;8
+1324;Rennes;Ouvrier, Employer;1;85/83/2823;98;98;4;1
+1348;Rennes;Ouvrier, Employer;1;29/83/2823;135;135;4;12
+1483;Rouen;Ouvrier, Employer;2;13/83/2823;185;185;4;8
+1884;Tours;Ouvrier, Employer;2;85/83/2823;25;25;4;2
+1988;Valence;Ouvrier, Employer;2;89/82/2823;48;48;4;6
+1911;Valence;Ouvrier, Employer;2;28/82/2823;24;24;4;5
+1955;Valence;Ouvrier, Employer;2;14/83/2823;24;24;4;2
+11;Aix en Provence-TGV;Retraite;8;11/82/2823;25;25;4;8
+76;Angouleme;Retraite;3;27/82/2823;18;18;4;6
+87;Angouleme;Retraite;3;18/83/2823;36;36;4;1
+187;Arles;Retraite;2;89/82/2823;58;58;4;8
+124;Avignon;Retraite;3;26/82/2823;135;135;4;6
+135;Avignon;Retraite;3;89/83/2823;49;49;4;5
+148;Bayonne;Retraite;3;81/82/2823;92;92;4;8
+395;Hendaye;Retraite;2;83/82/2823;25;25;4;6
+443;Le Mans;Retraite;4;82/82/2823;288;288;4;8
+587;Marseille;Retraite;2;28/83/2823;254;254;4;23
+783;Nantes;Retraite;2;26/82/2823;254;254;4;5
+855;Paris;Retraite;2;21/83/2823;68;68;4;9
+1239;Reims;Retraite;4;18/83/2823;841;841;4;6
+1259;Reims;Retraite;4;17/82/2823;258;258;4;5
+1379;Roissy;Retraite;4;17/82/2823;68;68;4;8
+1396;Rouen;Retraite;1;86/83/2823;58;58;4;1
+1444;Rouen Rive Droite;Retraite;2;85/83/2823;25;25;4;5
+1455;Rouen Rive Droite;Retraite;2;16/83/2823;98;98;4;2
+1492;Strasbourg;Retraite;1;18/82/2823;64;64;4;8
+1516;Strasbourg;Retraite;1;86/83/2823;358;358;4;3
+1548;Strasbourg;Retraite;1;89/82/2823;18;18;4;8
+1564;Strasbourg;Retraite;1;85/83/2823;98;98;4;8
+452;Strasbourg;Retraite;1;29/83/2823;135;135;4;12
+1612;Strasbourg;Retraite;1;18/82/2823;541;541;4;35
+347;Colmar;Sans emploi;2;84/82/2823;58;58;4;2
+491;Lille Europe;Sans emploi;2;81/82/2823;18;18;4;8
+532;Lille Flandres;Sans emploi;2;14/83/2823;82;82;4;7
+563;Lyon;Sans emploi;2;24/82/2823;541;541;4;8
+611;Marseille Saint-Charles;Sans emploi;1;23/82/2823;156;156;4;7
+635;Massy;Sans emploi;2;19/83/2823;25;25;4;5
+683;Metz;Sans emploi;4;18/83/2823;64;64;4;8
+711;Montpellier Saint-Roch;Sans emploi;1;25/82/2823;25;25;4;8
+779;Nantes;Sans emploi;1;22/82/2823;135;135;4;12
+923;Paris Bercy;Sans emploi;2;18/83/2823;64;64;4;8
+1891;Paris Nord;Sans emploi;2;12/83/2823;48;48;4;6
+1143;Paris St Lazare;Sans emploi;4;21/82/2823;54;54;4;8
+1252;Reims;Sans emploi;2;18/82/2823;54;54;4;8
+1387;Rennes;Sans emploi;2;16/82/2823;251;251;4;2
+1331;Rennes;Sans emploi;2;12/83/2823;58;58;4;8
+1355;Rennes;Sans emploi;2;14/83/2823;36;36;4;9
+1668;Toulon;Sans emploi;1;89/82/2823;48;48;4;6
+1671;Toulon;Sans emploi;1;28/82/2823;51;51;4;5
+1987;Valence;Sans emploi;4;16/82/2823;64;64;4;12
+155;Bayonne;Edutiant;1;88/82/2823;68;68;4;6
+383;Cherbourg;Edutiant;4;89/82/2823;25;25;4;6
+351;Dijon;Edutiant;2;88/82/2823;25;25;4;6
+515;Lille Flandres;Edutiant;4;25/82/2823;98;98;4;8
+875;Paris;Edutiant;1;19/83/2823;41;41;4;5
+1867;Paris Montparnasse;Edutiant;1;16/82/2823;1562;1562;4;2
+1119;Paris St Lazare;Edutiant;2;18/83/2823;185;185;4;8
+1132;Paris St Lazare;Edutiant;2;18/82/2823;251;251;4;8
+1167;Perpignan;Edutiant;1;17/83/2823;23;23;4;12
+1283;Reims;Edutiant;2;13/83/2823;841;841;4;6
+1479;Strasbourg;Edutiant;2;18/83/2823;135;135;4;8
+1583;Strasbourg;Edutiant;2;21/82/2823;541;541;4;9
+1527;Strasbourg;Edutiant;2;17/83/2823;25;25;4;8
+1551;Strasbourg;Edutiant;2;28/82/2823;36;36;4;8
+1575;Strasbourg;Edutiant;2;16/83/2823;25;25;4;8
+1599;Strasbourg;Edutiant;2;18/83/2823;288;288;4;8
+1756;Tours;Edutiant;2;86/83/2823;82;82;4;3
+1788;Tours;Edutiant;2;89/82/2823;24;24;4;8
+39;Amiens;Technicien, Agent de maitrise;6;11/83/2823;251;251;4;12
+196;Besancon;Technicien, Agent de maitrise;1;21/83/2823;36;36;4;8
+299;Cannes;Technicien, Agent de maitrise;2;85/82/2823;45;45;4;8
+348;Colmar;Technicien, Agent de maitrise;2;18/83/2823;98;98;4;8
+399;Hendaye;Technicien, Agent de maitrise;2;87/82/2823;64;64;4;8
+419;Laval;Technicien, Agent de maitrise;2;27/82/2823;288;288;4;2
+471;Lens;Technicien, Agent de maitrise;1;82/83/2823;98;98;4;8
+556;Lorient;Technicien, Agent de maitrise;2;17/82/2823;24;24;4;5
+684;Marseille Saint-Charles;Technicien, Agent de maitrise;2;16/82/2823;12;12;4;8
+676;Metz;Technicien, Agent de maitrise;2;11/83/2823;48;48;4;8
+883;Nice;Technicien, Agent de maitrise;1;18/83/2823;541;541;4;35
+827;Nice;Technicien, Agent de maitrise;1;21/82/2823;254;254;4;1
+851;Nimes;Technicien, Agent de maitrise;2;17/83/2823;48;48;4;7
+1191;Poitiers;Technicien, Agent de maitrise;2;28/82/2823;18;18;4;6
+1215;Poitiers;Technicien, Agent de maitrise;2;16/83/2823;543;543;4;2
+1427;Rouen Rive Droite;Technicien, Agent de maitrise;1;16/82/2823;54;54;4;8
+1636;Toulon;Technicien, Agent de maitrise;2;86/83/2823;254;254;4;2
+1647;Toulon;Technicien, Agent de maitrise;2;17/83/2823;82;82;4;7
+1763;Tours;Technicien, Agent de maitrise;1;13/83/2823;135;135;4;5
+1787;Tours;Technicien, Agent de maitrise;1;16/82/2823;541;541;4;8
+1835;Troyes;Technicien, Agent de maitrise;2;14/83/2823;156;156;4;3
+1859;Troyes;Technicien, Agent de maitrise;2;17/82/2823;25;25;4;8
+1883;Troyes;Technicien, Agent de maitrise;2;13/83/2823;288;288;4;8
